@@ -353,10 +353,8 @@ function drawer() {
 
 function footer() {
   return `<footer class="meb-footer mx-auto max-w-4xl px-4 pb-8 pt-4 text-center text-xs text-[var(--ink-faint)]">
-    <p>Speakout 3rd Edition B2 · course companion – condensed from the local book for studying with your class</p>
     <div class="meb-footer-links" dir="rtl" lang="ar">
-      <p>المصدر: كتاب Speakout B2 المحلي · التصميم: <a href="https://github.com/makahsg94/my-english-book" target="_blank" rel="noopener noreferrer">my-english-book</a></p>
-      <p>للدعم: استخدم <a href="#/book">فهرس الكورس</a> و<a href="#/review">المراجعة الشاملة</a></p>
+      <p>تطوير <a href="https://www.facebook.com/mahmoud.atef.239821" target="_blank" rel="noopener noreferrer">Mahmoud Atef</a></p>
     </div>
   </footer>`;
 }
