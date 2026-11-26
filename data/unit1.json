@@ -1,0 +1,831 @@
+{
+  "unit": 1,
+  "title": "identity",
+  "titleAr": "الهوية",
+  "aim": "Explore how identity, memory, preferences and personality shape the way we describe ourselves.",
+  "pages": "8–18",
+  "objectives": [
+    "Explain how family, language and experience shape identity",
+    "Use present perfect simple and continuous accurately",
+    "Talk about memory, preferences and personality traits",
+    "Write a blog post and a letter of recommendation"
+  ],
+  "lessons": [
+    {
+      "id": "1a",
+      "code": "1A",
+      "title": "My ID",
+      "pages": "8–10",
+      "goals": [
+        "Explain how family, language and place can shape personality",
+        "Use present perfect simple and continuous for results and durations",
+        "Describe your own identity with supporting examples"
+      ],
+      "grammar": {
+        "title": "Present perfect simple and continuous",
+        "shortAr": "الماضي البسيط يركّز على النتيجة والعدد، والمستمر يركّز على النشاط ومدته.",
+        "points": [
+          "Both tenses link a past situation to the present; with work, live and study the difference is often small.",
+          "Use the present perfect simple for a completed result and for How many / How much / How far questions.",
+          "Use the present perfect continuous for the activity itself, its duration with for / since, or repeated actions.",
+          "Use the simple with state verbs and with always, ever and never."
+        ],
+        "table": [
+          [
+            "Result of a completed action",
+            "We've had some really interesting replies."
+          ],
+          [
+            "Activity in progress",
+            "We've been interviewing people out on the street."
+          ],
+          [
+            "How many? / How long?",
+            "I've lived in lots of places. / I've been living here for five years."
+          ],
+          [
+            "Completed vs unfinished",
+            "I've learnt that hard work pays off. / I've been learning Dutch."
+          ],
+          [
+            "State verb",
+            "How long have you known Jessica?"
+          ]
+        ],
+        "exceptions": [
+          "State verbs take the simple, not the continuous: I've owned this car since 2009.",
+          "With live, work and study, either form is often possible."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "ambitious",
+          "ar": "طموح",
+          "example": "She sets high goals and works hard to reach them."
+        },
+        {
+          "word": "rebellious",
+          "ar": "متمرد",
+          "example": "He questions rules he thinks are unfair."
+        },
+        {
+          "word": "curious",
+          "ar": "فضولي",
+          "example": "She asks questions about new ideas and places."
+        },
+        {
+          "word": "sociable",
+          "ar": "اجتماعي",
+          "example": "He enjoys meeting people and spending time with friends."
+        },
+        {
+          "word": "cheerful",
+          "ar": "مرح",
+          "example": "She smiles a lot and stays positive."
+        },
+        {
+          "word": "argumentative",
+          "ar": "كثير الجدال",
+          "example": "He often disagrees with other people."
+        },
+        {
+          "word": "adventurous",
+          "ar": "مغامر",
+          "example": "She is happy to try new experiences."
+        },
+        {
+          "word": "stubborn",
+          "ar": "عنيد",
+          "example": "He refuses to change his mind once he has decided."
+        }
+      ],
+      "reading": {
+        "summary": "The article explains how family position, inherited traits, language and geography may influence personality, from birth order to the feelings people associate with different languages."
+      },
+      "listening": [
+        {
+          "track": "VB1",
+          "audioFile": "002_SO3_B2_SB_1A_Audio_VB1_01.mp3",
+          "summary": "Vocabulary bank: suffixes that form personality adjectives."
+        },
+        {
+          "track": "1.01",
+          "audioFile": "003_SO3_B2_SB_1A_Audio_1_01.mp3",
+          "summary": "Podcast: Matteo and Hana discuss food, music, mixed identity, work and family influence."
+        },
+        {
+          "track": "1.02",
+          "audioFile": "004_SO3_B2_SB_1A_Audio_1_02.mp3",
+          "summary": "Pronunciation: weak forms of have and been in questions about experience and duration."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U1 BBC Vlogs.mp4",
+        "summary": "Speakers talk about who they take after in their family and how that shapes who they are."
+      },
+      "speaking": [
+        "Draw a pie chart of your identity and explain the importance of family, culture, experiences, work, appearance and hobbies.",
+        "Compare your chart with a partner's and find similar and different influences."
+      ],
+      "writing": [
+        "Write a short Who am I? blog post about your background, personality and attitude to work or study, with examples to support your ideas."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "We ___ people on the street all morning; that's why we're tired.",
+          "options": [
+            "have interviewed",
+            "have been interviewing",
+            "interviewed"
+          ],
+          "answer": "have been interviewing",
+          "why": "The activity continued over a period and explains the present tiredness."
+        },
+        {
+          "type": "choice",
+          "q": "How many teachers ___ since you started this course?",
+          "options": [
+            "have you had",
+            "have you been having",
+            "did you have"
+          ],
+          "answer": "have you had",
+          "why": "How many asks for a completed number, so the present perfect simple is used."
+        },
+        {
+          "type": "choice",
+          "q": "She ___ Dutch recently and still finds it difficult.",
+          "options": [
+            "has learnt",
+            "has been learning",
+            "learns"
+          ],
+          "answer": "has been learning",
+          "why": "The learning is unfinished and still in progress."
+        },
+        {
+          "type": "choice",
+          "q": "Which adjective means not afraid of taking risks?",
+          "options": [
+            "stubborn",
+            "adventurous",
+            "argumentative"
+          ],
+          "answer": "adventurous",
+          "why": "Adventurous people accept new and risky experiences."
+        }
+      ]
+    },
+    {
+      "id": "1b",
+      "code": "1B",
+      "title": "Memory",
+      "pages": "11–13",
+      "goals": [
+        "Describe ways to improve memory",
+        "Choose between infinitive and -ing forms after common verbs",
+        "Use memory collocations and idioms in a story"
+      ],
+      "grammar": {
+        "title": "Infinitive and -ing forms",
+        "shortAr": "بعد حروف الجر نستخدم -ing، وبعض الأفعال يتغير معناها مع to أو -ing.",
+        "points": [
+          "Use an infinitive after be and to express purpose; so as (not) to is a more formal alternative.",
+          "Use an -ing form after prepositions, for example by working hard.",
+          "try, remember, forget and stop change meaning depending on whether they take an infinitive or an -ing form."
+        ],
+        "table": [
+          [
+            "try to do = attempt",
+            "I tried to climb the roof, but I failed."
+          ],
+          [
+            "try doing = test a method",
+            "Try drinking green tea if your stomach hurts."
+          ],
+          [
+            "remember doing = past memory",
+            "I remember going to school for the first time."
+          ],
+          [
+            "forget to do = not do it",
+            "I forgot to feed the dog."
+          ],
+          [
+            "stop to do = pause for another action",
+            "I stopped to call my mother."
+          ],
+          [
+            "After a preposition",
+            "I passed my exams by working hard."
+          ]
+        ],
+        "exceptions": [
+          "After a preposition use -ing: by revising, not by to revise.",
+          "so as not to is the formal negative of an infinitive of purpose."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "childhood memories",
+          "ar": "ذكريات الطفولة",
+          "example": "Childhood memories are things you remember from when you were very young."
+        },
+        {
+          "word": "long-term memory",
+          "ar": "الذاكرة طويلة المدى",
+          "example": "My long-term memory helps me remember things for years."
+        },
+        {
+          "word": "short-term memory",
+          "ar": "الذاكرة قصيرة المدى",
+          "example": "Her short-term memory is good for a few moments only."
+        },
+        {
+          "word": "perfect recall",
+          "ar": "استرجاع تام دقيق",
+          "example": "He has perfect recall for dates from his teenage years."
+        },
+        {
+          "word": "bring back memories",
+          "ar": "يستعيد ذكريات",
+          "example": "The smell of bread brings back memories of my grandmother."
+        },
+        {
+          "word": "learn by heart",
+          "ar": "يحفظ عن ظهر قلب",
+          "example": "We learned the poem by heart for the exam."
+        },
+        {
+          "word": "recall every detail",
+          "ar": "يتذكر كل تفصيلة",
+          "example": "She can recall every detail of that day."
+        },
+        {
+          "word": "go in one ear and out the other",
+          "ar": "يدخل من الأذن ويخرج من الأخرى",
+          "example": "I hear the instructions, but they go in one ear and out the other."
+        }
+      ],
+      "reading": {
+        "summary": "The article compares fictional and real people with extraordinary memories and links highly superior autobiographical memory to interest, focus and emotion."
+      },
+      "listening": [
+        {
+          "track": "1.0X",
+          "audioFile": "005_SO3_B2_SB_1B_Audio_1_0X.mp3",
+          "summary": "Vocabulary bank: idioms and collocations connected with memory."
+        },
+        {
+          "track": "VB1",
+          "audioFile": "006_SO3_B2_SB_1B_Audio_VB1_02.mp3",
+          "summary": "Vocabulary bank practice for memory words and phrases."
+        },
+        {
+          "track": "1.03",
+          "audioFile": "007_SO3_B2_SB_1B_Audio_1_03.mp3",
+          "summary": "Pronunciation: chunking two-part collocations such as long-term memory."
+        }
+      ],
+      "video": {
+        "file": "",
+        "summary": ""
+      },
+      "speaking": [
+        "Tell a funny or interesting memory, noting when, where and who was there.",
+        "Add unusual details about place, weather, people, sights, sounds and smells to keep listeners interested."
+      ],
+      "writing": [
+        "Write five sentences about your own memory habits using remember, forget, try or stop with the correct infinitive or -ing form."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "I remember ___ in front of a mirror before my last presentation.",
+          "options": [
+            "to practise",
+            "practising",
+            "practise"
+          ],
+          "answer": "practising",
+          "why": "It describes a memory of something done in the past."
+        },
+        {
+          "type": "choice",
+          "q": "Don't forget ___ water to class tomorrow.",
+          "options": [
+            "to bring",
+            "bringing",
+            "bring"
+          ],
+          "answer": "to bring",
+          "why": "forget to do means you must not fail to do a future action."
+        },
+        {
+          "type": "choice",
+          "q": "My technique is ___ a story that includes everything I need to remember.",
+          "options": [
+            "to write",
+            "writing",
+            "write"
+          ],
+          "answer": "to write",
+          "why": "An infinitive can follow the verb be to explain a technique or purpose."
+        },
+        {
+          "type": "choice",
+          "q": "Things you remember from very early in life are your ___.",
+          "options": [
+            "childhood memories",
+            "short-term memory",
+            "perfect recall"
+          ],
+          "answer": "childhood memories",
+          "why": "Childhood memories come from the earliest years of life."
+        }
+      ]
+    },
+    {
+      "id": "1c",
+      "code": "1C",
+      "title": "I'd much rather …",
+      "pages": "14–15",
+      "goals": [
+        "Express likes, dislikes and preferences clearly",
+        "Use would rather and would prefer accurately",
+        "Compromise when planning an itinerary with others"
+      ],
+      "grammar": {
+        "title": "Expressing personal preferences",
+        "shortAr": "التفضيل: would rather + فعل بدون to، وwould prefer + to، مع عبارات للميل والكره.",
+        "points": [
+          "Use phrases such as I'm really into, I'm passionate about, I'm not keen on and I'm not a big fan of with a noun or -ing form.",
+          "What I love about … is … and The thing I love about … is … focus on a particular attractive feature.",
+          "would rather takes the infinitive without to; would prefer takes the infinitive with to.",
+          "Given the choice introduces hypothetical options; I'd be happy to …, but … helps you compromise."
+        ],
+        "table": [
+          [
+            "Strong like",
+            "I'm really into trying new food."
+          ],
+          [
+            "Dislike",
+            "I'm not a big fan of museums."
+          ],
+          [
+            "Focusing on a feature",
+            "What I love about this city is the street life."
+          ],
+          [
+            "Preference",
+            "I'd rather wander in a park. / I'd prefer to stay here."
+          ],
+          [
+            "Compromise",
+            "I'd be happy to visit the market, but I don't want to stay all day."
+          ]
+        ],
+        "exceptions": [
+          "Use -ing after prepositions: into, about and on.",
+          "I'd rather is followed by the infinitive without to, but I'd prefer takes to."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "passionate about",
+          "ar": "شغوف بـ",
+          "example": "She is passionate about fashion and local art."
+        },
+        {
+          "word": "thrilled by",
+          "ar": "متحمس جداً بسبب",
+          "example": "He was thrilled by the chance to explore the city."
+        },
+        {
+          "word": "fond of",
+          "ar": "مولع بـ",
+          "example": "They are fond of street markets."
+        },
+        {
+          "word": "really into",
+          "ar": "مهتم جداً بـ",
+          "example": "I'm really into trying unusual foods."
+        },
+        {
+          "word": "nervous about",
+          "ar": "قلق من",
+          "example": "I get nervous about getting lost in a new city."
+        },
+        {
+          "word": "terrified of",
+          "ar": "خائف جداً من",
+          "example": "He's terrified of the traffic in big cities."
+        },
+        {
+          "word": "keen on",
+          "ar": "مهتم بـ",
+          "example": "Are you keen on visiting museums?"
+        },
+        {
+          "word": "fed up of",
+          "ar": "سئم من",
+          "example": "We were fed up of the noisy city centre."
+        }
+      ],
+      "reading": {
+        "summary": "A travel guide to Lagos links attractions such as street markets, art, parks and food to visitors' likes, fears and preferences."
+      },
+      "listening": [
+        {
+          "track": "1.04",
+          "audioFile": "008_SO3_B2_SB_1C_Audio_1_04.mp3",
+          "summary": "Pronunciation: word stress on dependent prepositions in phrases like terrified of."
+        },
+        {
+          "track": "1.05",
+          "audioFile": "009_SO3_B2_SB_1C_Audio_1_05.mp3",
+          "summary": "Two businesspeople discuss what to do on a day off in Lagos and negotiate a plan."
+        },
+        {
+          "track": "MB1",
+          "audioFile": "010_SO3_B2_SB_1C_Audio_MB1_01.mp3",
+          "summary": "Mediation bank model for organising a group task and making tourist recommendations."
+        }
+      ],
+      "video": {
+        "file": "",
+        "summary": ""
+      },
+      "speaking": [
+        "Choose a city with your group and plan a day, including places, activities, transport, meals and evening plans.",
+        "Discuss which ideas need compromise and agree on an itinerary to present to the class."
+      ],
+      "writing": [
+        "Write a short email suggesting a day in a city for a friend, using preference phrases and one compromise."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "I'd rather ___ the morning at the beach than go shopping.",
+          "options": [
+            "spend",
+            "to spend",
+            "spending"
+          ],
+          "answer": "spend",
+          "why": "would rather is followed by the infinitive without to."
+        },
+        {
+          "type": "choice",
+          "q": "I'm not a big ___ of shopping centres.",
+          "options": [
+            "fan",
+            "keen",
+            "into"
+          ],
+          "answer": "fan",
+          "why": "not a big fan of is a common way to express dislike."
+        },
+        {
+          "type": "choice",
+          "q": "The thing I ___ about this city is the historical architecture.",
+          "options": [
+            "love",
+            "loves",
+            "loving"
+          ],
+          "answer": "love",
+          "why": "The fixed pattern is The thing I love about … is … ."
+        },
+        {
+          "type": "choice",
+          "q": "Which reply shows a compromise?",
+          "options": [
+            "I'd be happy to visit the gallery, but I don't want to stay all day.",
+            "I'm terrified of galleries.",
+            "I'd rather not discuss it."
+          ],
+          "answer": "I'd be happy to visit the gallery, but I don't want to stay all day.",
+          "why": "It accepts part of the other person's plan while setting a limit."
+        }
+      ]
+    },
+    {
+      "id": "1d",
+      "code": "1D",
+      "title": "Personality",
+      "pages": "16–17",
+      "goals": [
+        "Describe how personality changes in different situations",
+        "Contrast ideas with while, whereas and whilst",
+        "Write a letter of recommendation with clear examples"
+      ],
+      "grammar": {
+        "title": "While, whereas and whilst",
+        "shortAr": "while / whereas / whilst تربط فكرتين متقابلتين؛ مع بداية الجملة نضع فاصلة بعد الأولى.",
+        "points": [
+          "Use while, whereas and whilst to introduce a second idea that contrasts with the first.",
+          "The linker can come at the beginning or in the middle of the sentence.",
+          "while and whilst can also introduce a time clause when two things happen at the same time."
+        ],
+        "table": [
+          [
+            "Contrast at the beginning",
+            "Whilst I like Carl as a person, I wouldn't like to work for him."
+          ],
+          [
+            "Contrast in the middle",
+            "At work I'm more serious, whereas with friends I'm relaxed."
+          ],
+          [
+            "Slightly more formal",
+            "Whilst she enjoyed his company, he sometimes made her angry."
+          ],
+          [
+            "Same time",
+            "While I was stuck in bed, everyone else was enjoying the holiday."
+          ]
+        ],
+        "exceptions": [
+          "At the beginning, put a comma after the first clause; in the middle, put it before the linker.",
+          "while / whilst can mean during the time that, not only although."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "bubbly",
+          "ar": "مرح ونشيط",
+          "example": "She's bubbly and always laughing."
+        },
+        {
+          "word": "committed to",
+          "ar": "ملتزم بـ",
+          "example": "He is committed to his job and takes it seriously."
+        },
+        {
+          "word": "enthusiastic",
+          "ar": "متحمس",
+          "example": "She is enthusiastic about trying new things."
+        },
+        {
+          "word": "happy-go-lucky",
+          "ar": "مرح وغير متألم كثيراً",
+          "example": "He is happy-go-lucky and stays positive when things go wrong."
+        },
+        {
+          "word": "grumpy",
+          "ar": "سريع الغضب",
+          "example": "He gets grumpy when he is tired."
+        },
+        {
+          "word": "welcoming",
+          "ar": "مرحّب",
+          "example": "Everyone was welcoming to the new club members."
+        },
+        {
+          "word": "compassionate",
+          "ar": "عطوف",
+          "example": "She is compassionate and cares about other people."
+        },
+        {
+          "word": "direct",
+          "ar": "مباشر",
+          "example": "He is more direct at work than with friends."
+        }
+      ],
+      "reading": {
+        "summary": "The street interviews show speakers describing themselves and explaining how their behaviour changes at work, with friends or with new people."
+      },
+      "listening": [
+        {
+          "track": "R1",
+          "audioFile": "011_SO3_B2_SB_1R_Audio_R1_01.mp3",
+          "summary": "Review listening: a Stormy weather anecdote recycling the unit's grammar and vocabulary."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U1 BBC StreetInt.mp4",
+        "summary": "Speakers discuss personality traits and how their personalities change in different situations."
+      },
+      "speaking": [
+        "Discuss how your personality changes with friends, family, new people and at work.",
+        "Describe a partner's personality to another student and suggest a job that would suit them."
+      ],
+      "writing": [
+        "Write a letter of recommendation for someone you know, describing relevant traits and giving specific examples."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "___ I like Carl as a person, I wouldn't like to work for him.",
+          "options": [
+            "Whilst",
+            "Because",
+            "If"
+          ],
+          "answer": "Whilst",
+          "why": "The sentence introduces a contrast between two ideas."
+        },
+        {
+          "type": "choice",
+          "q": "If a contrast linker comes at the beginning, where should the comma go?",
+          "options": [
+            "After the first clause",
+            "Before the first clause",
+            "No comma is needed"
+          ],
+          "answer": "After the first clause",
+          "why": "A comma separates the first statement from the contrasting statement."
+        },
+        {
+          "type": "choice",
+          "q": "Someone who is always laughing and full of life is ___.",
+          "options": [
+            "bubbly",
+            "grumpy",
+            "committed"
+          ],
+          "answer": "bubbly",
+          "why": "Bubbly describes a cheerful, lively personality."
+        },
+        {
+          "type": "choice",
+          "q": "Which sentence uses while as a time clause?",
+          "options": [
+            "While I was stuck in bed, everyone else was enjoying the holiday.",
+            "While I am sociable, my sister is shy.",
+            "Whereas I like tea, she prefers coffee."
+          ],
+          "answer": "While I was stuck in bed, everyone else was enjoying the holiday.",
+          "why": "It describes two things happening at the same time, not a contrast."
+        }
+      ]
+    }
+  ],
+  "review": {
+    "summary": "Recycle identity language: present perfect forms, infinitive and -ing choices, preferences, contrast linkers and personality vocabulary.",
+    "tasks": [
+      "Complete the Stormy weather anecdote with the correct forms, then check your answers with R1.",
+      "Describe three people you know using personality adjectives and contrast their traits with while or whereas.",
+      "Write a short paragraph about what shapes your identity and how you express preferences."
+    ],
+    "quiz": [
+      {
+        "q": "I ___ all the applications; we can shortlist three people now.",
+        "options": [
+          "have reviewed",
+          "have been reviewing",
+          "review",
+          "was reviewing"
+        ],
+        "answer": "have reviewed",
+        "skill": "grammar"
+      },
+      {
+        "q": "She ___ Mandarin for two years and still finds it difficult.",
+        "options": [
+          "has learnt",
+          "has been learning",
+          "learns",
+          "is learning"
+        ],
+        "answer": "has been learning",
+        "skill": "grammar"
+      },
+      {
+        "q": "Remember ___ the dog before you leave.",
+        "options": [
+          "to feed",
+          "feeding",
+          "feed",
+          "fed"
+        ],
+        "answer": "to feed",
+        "skill": "grammar"
+      },
+      {
+        "q": "I stopped ___ coffee because it kept me awake.",
+        "options": [
+          "to drink",
+          "drinking",
+          "drink",
+          "drunk"
+        ],
+        "answer": "drinking",
+        "skill": "grammar"
+      },
+      {
+        "q": "I'd rather ___ at home tonight.",
+        "options": [
+          "stay",
+          "to stay",
+          "staying",
+          "stayed"
+        ],
+        "answer": "stay",
+        "skill": "grammar"
+      },
+      {
+        "q": "We use ___ to introduce a contrasting second idea.",
+        "options": [
+          "whereas",
+          "because",
+          "although",
+          "so"
+        ],
+        "answer": "whereas",
+        "skill": "grammar"
+      },
+      {
+        "q": "Someone who refuses to change their mind is ___.",
+        "options": [
+          "stubborn",
+          "adventurous",
+          "sociable",
+          "curious"
+        ],
+        "answer": "stubborn",
+        "skill": "vocab"
+      },
+      {
+        "q": "A person who often disagrees with other people is ___.",
+        "options": [
+          "argumentative",
+          "cheerful",
+          "committed",
+          "welcoming"
+        ],
+        "answer": "argumentative",
+        "skill": "vocab"
+      },
+      {
+        "q": "Things you remember from early childhood are your ___.",
+        "options": [
+          "childhood memories",
+          "short-term memory",
+          "perfect recall",
+          "findings"
+        ],
+        "answer": "childhood memories",
+        "skill": "vocab"
+      },
+      {
+        "q": "If something brings back memories, it ___.",
+        "options": [
+          "makes you think of the past",
+          "helps you forget completely",
+          "is impossible to recall",
+          "happens in the future"
+        ],
+        "answer": "makes you think of the past",
+        "skill": "vocab"
+      },
+      {
+        "q": "According to the article, what can influence personality?",
+        "options": [
+          "Family, language and geography",
+          "Only genetics",
+          "Only the weather",
+          "Only work experience"
+        ],
+        "answer": "Family, language and geography",
+        "skill": "reading"
+      },
+      {
+        "q": "Which reply best compromises when a friend wants to go shopping but you prefer a park?",
+        "options": [
+          "I'd be happy to visit the market, but I'd rather spend the afternoon in the park.",
+          "I'm not keen on parks.",
+          "I'd rather not discuss it.",
+          "There's no way I'll go."
+        ],
+        "answer": "I'd be happy to visit the market, but I'd rather spend the afternoon in the park.",
+        "skill": "communication"
+      },
+      {
+        "q": "Which phrase expresses a strong like?",
+        "options": [
+          "I'm really into street food.",
+          "It's not my cup of tea.",
+          "I'm not a big fan of it.",
+          "I can't stand it."
+        ],
+        "answer": "I'm really into street food.",
+        "skill": "communication"
+      },
+      {
+        "q": "The idiom for information that is forgotten immediately is ___.",
+        "options": [
+          "go in one ear and out the other",
+          "learn by heart",
+          "perfect recall",
+          "long-term memory"
+        ],
+        "answer": "go in one ear and out the other",
+        "skill": "vocab"
+      }
+    ]
+  }
+}

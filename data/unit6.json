@@ -1,0 +1,830 @@
+{
+  "unit": 6,
+  "title": "psychology",
+  "titleAr": "علم النفس",
+  "aim": "Explore attention, introversion, tactful advice and truth-telling games.",
+  "pages": "68–78",
+  "objectives": [
+    "Use language of necessity, prohibition and permission",
+    "Report orders, requests and advice",
+    "Ask for and give advice tactfully",
+    "Write concise notes and an email giving news"
+  ],
+  "lessons": [
+    {
+      "id": "6a",
+      "code": "6A",
+      "title": "Pay attention!",
+      "pages": "68–70",
+      "goals": [
+        "Understand why we get distracted",
+        "Use necessity, prohibition and permission structures",
+        "Make notes more concise"
+      ],
+      "grammar": {
+        "title": "Necessity, prohibition and permission",
+        "shortAr": "الضرورة بـ need/must/have to، والمنع بـ not allowed/forbidden/not permitted، والإذن بـ allow أو permit مع المفعول وto.",
+        "points": [
+          "Need + -ing and need to be + past participle express necessity when the subject is a thing.",
+          "Must, need to and have to express necessity when the subject is a person.",
+          "Be not allowed to, be forbidden and be not permitted express prohibition; mustn't and can't are more direct.",
+          "Allow / permit + object + infinitive with to express permission."
+        ],
+        "table": [
+          [
+            "FUNCTION",
+            "EXAMPLE"
+          ],
+          [
+            "Necessity: thing + need -ing",
+            "The clothes needed ironing."
+          ],
+          [
+            "Necessity: thing + need to be done",
+            "The TV needs to be repaired."
+          ],
+          [
+            "Necessity: person",
+            "You need to apply for a visa."
+          ],
+          [
+            "Prohibition",
+            "Adams wasn't allowed to leave the hotel."
+          ],
+          [
+            "Permission: formal",
+            "The rules permit players to take a ten-minute break."
+          ]
+        ],
+        "exceptions": [
+          "Need + -ing has a passive meaning: The essay needs rewriting = needs to be rewritten.",
+          "Forbid and permit are formal and often passive: Photography is forbidden."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "distract",
+          "ar": "يشتت الانتباه",
+          "example": "I got distracted while writing my essay."
+        },
+        {
+          "word": "rewrite",
+          "ar": "يعيد الكتابة",
+          "example": "I had to rewrite the whole thing."
+        },
+        {
+          "word": "impractical",
+          "ar": "غير عملي",
+          "example": "It's impractical to avoid all distractions."
+        },
+        {
+          "word": "misunderstand",
+          "ar": "يفهم خطأً",
+          "example": "We often misunderstand instructions when distracted."
+        },
+        {
+          "word": "substandard",
+          "ar": "دون المستوى المطلوب",
+          "example": "Distracted work can be substandard."
+        },
+        {
+          "word": "unknown",
+          "ar": "غير معروف",
+          "example": "It is unknown exactly how much time is lost."
+        },
+        {
+          "word": "internal trigger",
+          "ar": "محفز داخلي",
+          "example": "Loneliness can be an internal trigger."
+        },
+        {
+          "word": "external trigger",
+          "ar": "محفز خارجي",
+          "example": "Phones and social media are external triggers."
+        },
+        {
+          "word": "transition",
+          "ar": "الانتقال بين المهام",
+          "example": "Be careful at moments of transition."
+        }
+      ],
+      "reading": {
+        "summary": "The article argues that distraction comes mainly from internal emotional triggers rather than technology, and suggests planning time, fixed checking times and care during transitions between tasks."
+      },
+      "listening": [
+        {
+          "track": "6.01",
+          "audioFile": "058_SO3_B2_SB_6A_Audio_6_01.mp3",
+          "summary": "Word-stress practice with prefixed words such as rewrite, impractical and misunderstood."
+        },
+        {
+          "track": "6.0X",
+          "audioFile": "059_SO3_B2_SB_6A_Audio_6_0X.mp3",
+          "summary": "Audio version of the article about staying focused."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U6 BBC Vlogs.mp4",
+        "summary": "Speakers talk about things they never seem to find time to do."
+      },
+      "speaking": [
+        "Choose the three most useful anti-distraction tips and explain why they work for you."
+      ],
+      "writing": [
+        "Turn full notes about Eyal's ideas into concise headings and keywords."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "The lightbulb needs ___.",
+          "options": [
+            "changing",
+            "to changing",
+            "changed"
+          ],
+          "answer": "changing",
+          "why": "Need + -ing has a passive meaning when the subject is a thing."
+        },
+        {
+          "type": "choice",
+          "q": "Food isn't ___ in the library.",
+          "options": [
+            "allow",
+            "allowed",
+            "allowing"
+          ],
+          "answer": "allowed",
+          "why": "Prohibition uses be + not + allowed."
+        },
+        {
+          "type": "choice",
+          "q": "She let me stay in her flat. → She ___ me to stay in her flat.",
+          "options": [
+            "allowed",
+            "permitted to",
+            "let"
+          ],
+          "answer": "allowed",
+          "why": "Allow + object + infinitive with to reports permission."
+        },
+        {
+          "type": "choice",
+          "q": "We ___ to stay out after midnight.",
+          "options": [
+            "didn't allow",
+            "weren't allowed",
+            "not permitted"
+          ],
+          "answer": "weren't allowed",
+          "why": "Past prohibition uses were not allowed to."
+        }
+      ]
+    },
+    {
+      "id": "6b",
+      "code": "6B",
+      "title": "Quiet",
+      "pages": "71–73",
+      "goals": [
+        "Understand a conversation about introverts and extroverts",
+        "Report orders, requests and advice",
+        "Use reporting verbs in a forum reply"
+      ],
+      "grammar": {
+        "title": "Reported orders, requests and advice",
+        "shortAr": "عند نقل أمر أو طلب أو نصيحة: ask/tell/order/advise + مفعول + to + فعل، مع تغير الضمائر والزمن عند الحاجة.",
+        "points": [
+          "Use order / tell for orders, ask for requests and advise for advice.",
+          "The pattern is reporting verb + object + infinitive with to.",
+          "Pronouns and time references change, and verbs often move further back in the past.",
+          "Reported questions use statement word order, without do / does / did."
+        ],
+        "table": [
+          [
+            "REPORTED FUNCTION",
+            "EXAMPLE"
+          ],
+          [
+            "Order",
+            "She ordered me to shut the door."
+          ],
+          [
+            "Request",
+            "I asked him to open the door."
+          ],
+          [
+            "Advice",
+            "He advised me to change jobs."
+          ],
+          [
+            "Negative advice",
+            "She advised me not to work at the weekend."
+          ],
+          [
+            "Reported question",
+            "She asked me if I was coming to the party."
+          ]
+        ],
+        "exceptions": [
+          "If a statement is still true or was said recently, the present reporting form can be kept.",
+          "Will is reported as would and can as could."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "suggest",
+          "ar": "يقترح",
+          "example": "I suggested having just one meeting a week."
+        },
+        {
+          "word": "refuse",
+          "ar": "يرفض",
+          "example": "People refused to take the idea seriously."
+        },
+        {
+          "word": "emphasise",
+          "ar": "يؤكد على",
+          "example": "I emphasised how much time we could save."
+        },
+        {
+          "word": "threaten",
+          "ar": "يهدد",
+          "example": "I threatened to stop coming to meetings."
+        },
+        {
+          "word": "boast",
+          "ar": "يتفاخر",
+          "example": "He boasted about his achievements."
+        },
+        {
+          "word": "claim",
+          "ar": "يدّعي",
+          "example": "He claimed to have worked as a manager."
+        },
+        {
+          "word": "question",
+          "ar": "يسائل أو يشكك",
+          "example": "I questioned him about the details."
+        },
+        {
+          "word": "admit",
+          "ar": "يعترف",
+          "example": "He admitted that it wasn't true."
+        },
+        {
+          "word": "persuade",
+          "ar": "يقنع",
+          "example": "I persuaded people to reduce the number of meetings."
+        }
+      ],
+      "reading": {
+        "summary": "A conversation compares introverts and extroverts through Susan Cain's book and workplace examples. Forum posts use reporting verbs to describe colleagues who boasted about achievements and later admitted the truth."
+      },
+      "listening": [
+        {
+          "track": "6.02",
+          "audioFile": "060_SO3_B2_SB_6B_Audio_6_02.mp3",
+          "summary": "Miriam and Nishma discuss Quiet, introverts, team-building and a busy office."
+        },
+        {
+          "track": "VB6",
+          "audioFile": "061_SO3_B2_SB_6B_Audio_VB6_01.mp3",
+          "summary": "Vocabulary bank practice with reporting verbs."
+        },
+        {
+          "track": "6.03",
+          "audioFile": "062_SO3_B2_SB_6B_Audio_6_03.mp3",
+          "summary": "Pronunciation of consonant clusters in reporting verbs."
+        }
+      ],
+      "speaking": [
+        "Do the introvert / extrovert quiz and explain your answers with examples."
+      ],
+      "writing": [
+        "Write a forum reply giving your view on introverts or extroverts and reporting what someone said."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "She told me ___ back to my desk.",
+          "options": [
+            "get",
+            "to get",
+            "getting"
+          ],
+          "answer": "to get",
+          "why": "Tell + object takes an infinitive with to."
+        },
+        {
+          "type": "choice",
+          "q": "'Can you open the door?' → I asked him ___ the door.",
+          "options": [
+            "open",
+            "to open",
+            "opening"
+          ],
+          "answer": "to open",
+          "why": "Ask + object + to-infinitive reports a request."
+        },
+        {
+          "type": "choice",
+          "q": "He ___ to have worked as a manager, but he admitted it wasn't true.",
+          "options": [
+            "claimed",
+            "suggested",
+            "advised"
+          ],
+          "answer": "claimed",
+          "why": "Claim reports a statement that may not be true."
+        },
+        {
+          "type": "choice",
+          "q": "They asked me what ___.",
+          "options": [
+            "did Imogen think",
+            "Imogen thought",
+            "thinks Imogen"
+          ],
+          "answer": "Imogen thought",
+          "why": "Reported questions use statement word order without did."
+        }
+      ]
+    },
+    {
+      "id": "6c",
+      "code": "6C",
+      "title": "Here's my advice",
+      "pages": "74–75",
+      "goals": [
+        "Ask for and give sensitive advice",
+        "Use get and take collocations",
+        "Build on advice in a thread"
+      ],
+      "grammar": {
+        "title": "Asking for and giving advice tactfully",
+        "shortAr": "طلب النصيحة بـ What do you think I should do?، وتقديمها بلطف بـ might/could/perhaps وI hope you don't take this the wrong way.",
+        "points": [
+          "Soften advice with I hope you don't take this the wrong way, Don't take it personally and I'm telling you this as a friend.",
+          "Use could, might, perhaps and maybe so advice sounds like a suggestion, not an order.",
+          "Useful forms: My advice would be to ..., If I were you, I'd ... and Have you thought about -ing?",
+          "Ask with What do you think I should do? or What would you do?"
+        ],
+        "table": [
+          [
+            "FUNCTION",
+            "EXAMPLE"
+          ],
+          [
+            "Ask for advice",
+            "What do you think I should do?"
+          ],
+          [
+            "Softening",
+            "I hope you don't take this the wrong way, but ..."
+          ],
+          [
+            "Gentle suggestion",
+            "It might be a good idea to get some lessons."
+          ],
+          [
+            "Conditional advice",
+            "If I were you, I wouldn't leave university."
+          ],
+          [
+            "Alternative suggestion",
+            "Have you thought about going to bed earlier?"
+          ]
+        ],
+        "exceptions": [
+          "Get the wrong idea means misunderstand; take it personally means feel criticised.",
+          "If I were you uses were, not was, in this fixed structure."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "get involved",
+          "ar": "يشارك أو يتدخل",
+          "example": "We love to get involved and give advice."
+        },
+        {
+          "word": "get something off your chest",
+          "ar": "يفرغ ما في صدره بالكلام",
+          "example": "They just want to get something off their chest."
+        },
+        {
+          "word": "take your mind off something",
+          "ar": "يصرف انتباهك عن شيء",
+          "example": "Listening can take your mind off a problem."
+        },
+        {
+          "word": "get something wrong",
+          "ar": "يخطئ في شيء",
+          "example": "We don't want to get it wrong."
+        },
+        {
+          "word": "take it personally",
+          "ar": "يأخذ الأمر على محمل شخصي",
+          "example": "Don't take it personally; it's general advice."
+        },
+        {
+          "word": "take advice",
+          "ar": "يقبل النصيحة ويعمل بها",
+          "example": "They rarely take advice from anyone."
+        },
+        {
+          "word": "get through to someone",
+          "ar": "يصل إلى فهم شخص",
+          "example": "Friends couldn't get through to him."
+        },
+        {
+          "word": "get the message",
+          "ar": "يفهم الرسالة أو المغزى",
+          "example": "They don't seem to get the message."
+        },
+        {
+          "word": "take the wrong way",
+          "ar": "يفهم كلاماً بشكل خاطئ أو مزعج",
+          "example": "I hope you don't take this the wrong way."
+        }
+      ],
+      "reading": {
+        "summary": "The blog explains that people often want sympathetic listening rather than solutions, but sometimes need honest advice. It also describes the fear of being wrong or sounding critical."
+      },
+      "listening": [
+        {
+          "track": "6.04",
+          "audioFile": "063_SO3_B2_SB_6C_Audio_6_04.mp3",
+          "summary": "Two conversations with tactful advice about study, spending and friendships."
+        },
+        {
+          "track": "6.05",
+          "audioFile": "064_SO3_B2_SB_6C_Audio_6_05.mp3",
+          "summary": "Pitch practice for sounding tactful when giving advice."
+        }
+      ],
+      "speaking": [
+        "Role-play asking for and giving tactful advice about lateness, clothes or copied homework."
+      ],
+      "writing": [
+        "Write an advice-thread post that builds on a previous suggestion and adds your own tactful advice."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "I hope you don't ___ this the wrong way.",
+          "options": [
+            "take",
+            "get",
+            "make"
+          ],
+          "answer": "take",
+          "why": "The fixed phrase is take this the wrong way."
+        },
+        {
+          "type": "choice",
+          "q": "My advice ___ be to apologise.",
+          "options": [
+            "will",
+            "would",
+            "should"
+          ],
+          "answer": "would",
+          "why": "My advice would be to ... is the tactful form."
+        },
+        {
+          "type": "choice",
+          "q": "If I ___ you, I'd talk to her.",
+          "options": [
+            "am",
+            "was",
+            "were"
+          ],
+          "answer": "were",
+          "why": "If I were you is the fixed advice structure."
+        },
+        {
+          "type": "choice",
+          "q": "Have you thought about ___ a budget?",
+          "options": [
+            "set",
+            "setting",
+            "to set"
+          ],
+          "answer": "setting",
+          "why": "Think about is followed by the -ing form."
+        }
+      ]
+    },
+    {
+      "id": "6d",
+      "code": "6D",
+      "title": "Would I lie to you?",
+      "pages": "76–77",
+      "goals": [
+        "Follow a BBC panel-show story",
+        "Use fillers to gain thinking time",
+        "Write an email giving news"
+      ],
+      "grammar": {
+        "title": "Fillers and buying time in conversation",
+        "shortAr": "كلمات مثل Well و So و OK و Right تمنح وقتاً للتفكير، وتعبيرات مثل Let me think تؤجل الإجابة بلباقة.",
+        "points": [
+          "Fillers such as Well, So, OK and Right give the speaker time in informal speech.",
+          "Phrases like Let me think and I'm just trying to remember buy time before an answer.",
+          "They show that a response is coming; they are not complete answers.",
+          "They are useful when telling a true-or-false story in a relaxed conversation."
+        ],
+        "table": [
+          [
+            "FILLER / PHRASE",
+            "USE / EXAMPLE"
+          ],
+          [
+            "Well",
+            "Well, that's very interesting."
+          ],
+          [
+            "So",
+            "So, you already had that bag?"
+          ],
+          [
+            "OK / Right",
+            "OK, that's interesting. / Right, so I'd taken a shirt."
+          ],
+          [
+            "Let me think",
+            "Let me think. I'm just trying to remember."
+          ],
+          [
+            "That's a good question",
+            "That's a good question. I'll have to think about this."
+          ]
+        ],
+        "exceptions": [
+          "Fillers suit informal speech; avoid overusing them in formal writing.",
+          "They do not answer the question, so follow them with a real response."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "Well",
+          "ar": "حسناً (لإفساح المجال للتفكير)",
+          "example": "Well, that's very interesting."
+        },
+        {
+          "word": "So",
+          "ar": "إذن",
+          "example": "So, you already had that bag?"
+        },
+        {
+          "word": "OK",
+          "ar": "حسناً/تمام",
+          "example": "OK, that's interesting."
+        },
+        {
+          "word": "Right",
+          "ar": "حسناً/صحيح",
+          "example": "Right, so I'd taken a Brazil shirt."
+        },
+        {
+          "word": "Let me think",
+          "ar": "دعني أفكر",
+          "example": "Let me think before I answer."
+        },
+        {
+          "word": "That's a good question",
+          "ar": "سؤال جيد",
+          "example": "That's a good question; give me a moment."
+        },
+        {
+          "word": "I'll have to think about this",
+          "ar": "سأضطر للتفكير في هذا",
+          "example": "I'll have to think about this before I decide."
+        },
+        {
+          "word": "I'm just trying to remember",
+          "ar": "أحاول فقط أن أتذكر",
+          "example": "I'm just trying to remember the year."
+        }
+      ],
+      "reading": {
+        "summary": "The lesson introduces Would I Lie to You?, a BBC panel show where celebrities tell stories that may be true or false. Dan Walker's story involves a Brazil bag and Pelé."
+      },
+      "listening": [
+        {
+          "track": "6.06",
+          "audioFile": "065_SO3_B2_SB_6D_Audio_6_06.mp3",
+          "summary": "Olga tells her story in the BBC game while the other players ask questions."
+        },
+        {
+          "track": "6.07",
+          "audioFile": "066_SO3_B2_SB_6D_Audio_6_07.mp3",
+          "summary": "The answer to Olga's story and the players' reactions."
+        },
+        {
+          "track": "R6",
+          "audioFile": "067_SO3_B2_SB_6R_Audio_R6_01.mp3",
+          "summary": "Review audio for a text about burnout and ways to deal with it."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U6 BBC Programmes.mp4",
+        "summary": "BBC programme clip with Dan Walker's Pelé story from Would I Lie to You?"
+      },
+      "speaking": [
+        "Tell a true or false story, using fillers while classmates ask questions and guess."
+      ],
+      "writing": [
+        "Write an email giving a friend news and including a short surprising story."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "Which word is a common informal filler that buys time?",
+          "options": [
+            "Well",
+            "Suddenly",
+            "Fortunately"
+          ],
+          "answer": "Well",
+          "why": "Well is a typical filler in spontaneous speech."
+        },
+        {
+          "type": "choice",
+          "q": "You want to delay an answer. Best phrase:",
+          "options": [
+            "Let me think.",
+            "Here is the answer.",
+            "That is false."
+          ],
+          "answer": "Let me think.",
+          "why": "It gives the speaker time to think."
+        },
+        {
+          "type": "choice",
+          "q": "\"That's an interesting question\" is used to ...",
+          "options": [
+            "end the conversation",
+            "gain time before answering",
+            "correct grammar"
+          ],
+          "answer": "gain time before answering",
+          "why": "It is a buying-time phrase."
+        },
+        {
+          "type": "choice",
+          "q": "Fillers are most typical in ...",
+          "options": [
+            "formal reports",
+            "informal speech",
+            "academic essays"
+          ],
+          "answer": "informal speech",
+          "why": "They help manage relaxed, spontaneous conversation."
+        }
+      ]
+    }
+  ],
+  "review": {
+    "summary": "Review of focus and distraction, reported speech, tactful advice and conversation fillers, with a burnout text.",
+    "tasks": [
+      "Choose the correct necessity and prohibition forms in descriptions of unusual jobs.",
+      "Report requests, orders and advice with ask, tell and advise.",
+      "Correct collocation mistakes and complete the burnout text with the review audio."
+    ],
+    "quiz": [
+      {
+        "q": "The clothes need ___.",
+        "options": [
+          "ironing",
+          "to iron",
+          "iron"
+        ],
+        "answer": "ironing",
+        "skill": "grammar"
+      },
+      {
+        "q": "You ___ allowed to park there.",
+        "options": [
+          "aren't",
+          "don't",
+          "haven't"
+        ],
+        "answer": "aren't",
+        "skill": "grammar"
+      },
+      {
+        "q": "She asked me ___ the chairs.",
+        "options": [
+          "help her move",
+          "to help her move",
+          "helping her move"
+        ],
+        "answer": "to help her move",
+        "skill": "grammar"
+      },
+      {
+        "q": "He advised me ___ at the weekend.",
+        "options": [
+          "not work",
+          "not to work",
+          "to not working"
+        ],
+        "answer": "not to work",
+        "skill": "grammar"
+      },
+      {
+        "q": "If I ___ you, I'd draw up a schedule.",
+        "options": [
+          "am",
+          "was",
+          "were"
+        ],
+        "answer": "were",
+        "skill": "grammar"
+      },
+      {
+        "q": "Which prefix means 'incorrectly'?",
+        "options": [
+          "mis-",
+          "sub-",
+          "re-"
+        ],
+        "answer": "mis-",
+        "skill": "vocab"
+      },
+      {
+        "q": "If you ___ someone's mind off a problem, you help them forget it.",
+        "options": [
+          "get",
+          "take",
+          "put"
+        ],
+        "answer": "take",
+        "skill": "vocab"
+      },
+      {
+        "q": "Which verb means 'talk proudly about your achievements'?",
+        "options": [
+          "boast",
+          "refuse",
+          "admit"
+        ],
+        "answer": "boast",
+        "skill": "vocab"
+      },
+      {
+        "q": "What does Nir Eyal see as the main cause of distraction?",
+        "options": [
+          "The internet alone",
+          "Internal triggers",
+          "Long to-do lists",
+          "Working at night"
+        ],
+        "answer": "Internal triggers",
+        "skill": "reading"
+      },
+      {
+        "q": "According to the advice blog, what do people usually want when they describe a problem?",
+        "options": [
+          "Immediate solutions",
+          "Sympathetic listening",
+          "A budget",
+          "More meetings"
+        ],
+        "answer": "Sympathetic listening",
+        "skill": "reading"
+      },
+      {
+        "q": "Polite way to give honest advice:",
+        "options": [
+          "You are wrong.",
+          "I hope you don't take this the wrong way, but ...",
+          "Do it now."
+        ],
+        "answer": "I hope you don't take this the wrong way, but ...",
+        "skill": "communication"
+      },
+      {
+        "q": "Which phrase buys time before an answer?",
+        "options": [
+          "That's a good question.",
+          "Here's my answer.",
+          "I completely agree."
+        ],
+        "answer": "That's a good question.",
+        "skill": "communication"
+      },
+      {
+        "q": "Reported request from 'Can you carry my suitcase?'",
+        "options": [
+          "She asked me carry her suitcase.",
+          "She asked me to carry her suitcase.",
+          "She asked me carrying her suitcase."
+        ],
+        "answer": "She asked me to carry her suitcase.",
+        "skill": "communication"
+      }
+    ]
+  }
+}

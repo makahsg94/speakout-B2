@@ -1,0 +1,833 @@
+{
+  "unit": 8,
+  "title": "community",
+  "titleAr": "المجتمع",
+  "aim": "Look at co-living, world issues, online communities and projects that help people.",
+  "pages": "92–102",
+  "objectives": [
+    "Use participle clauses to join ideas",
+    "Discuss hypothetical world issues with conditionals",
+    "Build a clear argument with prepositional phrases",
+    "Describe projects and write a mission statement"
+  ],
+  "lessons": [
+    {
+      "id": "8a",
+      "code": "8A",
+      "title": "A new way of living",
+      "pages": "92–94",
+      "goals": [
+        "Understand arguments for and against co-living",
+        "Use participle clauses",
+        "Use collocations with go, have and make"
+      ],
+      "grammar": {
+        "title": "Participle clauses",
+        "shortAr": "-ing لحدثين متزامنين، وhaving + past participle لحدث سابق، بشرط اتحاد الفاعل.",
+        "points": [
+          "Use a present participle (-ing) when two actions happen at more or less the same time.",
+          "Use having + past participle when one action happened before another.",
+          "Both actions must have the same subject.",
+          "The negative forms are not + -ing and not having + past participle."
+        ],
+        "table": [
+          [
+            "-ing — simultaneous actions",
+            "Moving into co-living, many people find a community."
+          ],
+          [
+            "having + past participle — earlier action",
+            "Having decided to move, they looked for a flat."
+          ],
+          [
+            "not having + past participle — negative",
+            "Not having seen him for years, I was thrilled."
+          ],
+          [
+            "not + -ing — negative reason",
+            "Not wanting to hurt him, I said nothing."
+          ],
+          [
+            "same subject required",
+            "Having finished her talk, Anna left."
+          ]
+        ],
+        "exceptions": [
+          "Different subjects cannot be joined in a participle clause.",
+          "Use having + past participle, not just -ing, when the first action is clearly finished."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "co-living",
+          "ar": "العيش المشترك",
+          "example": "Co-living offers affordable rooms and shared spaces."
+        },
+        {
+          "word": "communal amenities",
+          "ar": "مرافق مشتركة",
+          "example": "Residents can use communal amenities such as a gym."
+        },
+        {
+          "word": "ready-made community",
+          "ar": "مجتمع جاهز",
+          "example": "Newcomers often find a ready-made community."
+        },
+        {
+          "word": "go wrong",
+          "ar": "يسوء الأمر",
+          "example": "The two groups rely on each other when things go wrong."
+        },
+        {
+          "word": "have something in common",
+          "ar": "يشتركان في شيء",
+          "example": "Residents have interests in common."
+        },
+        {
+          "word": "have a go at",
+          "ar": "يجرّب نشاطًا",
+          "example": "With the beach nearby, have a go at surfing."
+        },
+        {
+          "word": "make sense",
+          "ar": "يكون منطقيًا",
+          "example": "He wanted to make sense of modern cities."
+        },
+        {
+          "word": "go according to plan",
+          "ar": "يسير وفق الخطة",
+          "example": "Things don't always go according to plan."
+        },
+        {
+          "word": "make a difference",
+          "ar": "يحدث فرقًا",
+          "example": "Architects continue working to make a difference."
+        }
+      ],
+      "reading": {
+        "summary": "An article weighs co-living against loneliness and high rents, describing shared facilities and flexible contracts. It also raises concerns about privacy, rules, CCTV and data privacy."
+      },
+      "listening": [
+        {
+          "track": "8.0X",
+          "audioFile": "080_SO3_B2_SB_8A_Audio_8_0X.mp3",
+          "summary": "Recording of the article about co-living spaces and their advantages and drawbacks."
+        },
+        {
+          "track": "8.01",
+          "audioFile": "081_SO3_B2_SB_8A_Audio_8_01.mp3",
+          "summary": "Practice noticing higher or lower pitch on participle clauses."
+        },
+        {
+          "track": "VB8",
+          "audioFile": "082_SO3_B2_SB_8A_Audio_VB8_01.mp3",
+          "summary": "Vocabulary-bank practice on describing homes and living conditions."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U8 BBC Vlogs.mp4",
+        "summary": "People give their own ideas about what the word community means."
+      },
+      "speaking": [
+        "Discuss the advantages and disadvantages of each co-living space, asking partners to explain their thinking.",
+        "Say which living situation you would choose and how where you live affects your life."
+      ],
+      "writing": [
+        "Write a formal application email for a role at a co-living company, covering experience, attitude and availability."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "... to move to the city, she looked for somewhere affordable.",
+          "options": [
+            "Having decided",
+            "Deciding",
+            "Decided"
+          ],
+          "answer": "Having decided",
+          "why": "The decision was completed before the search."
+        },
+        {
+          "type": "choice",
+          "q": "... into the building, residents immediately meet their neighbours.",
+          "options": [
+            "Moving",
+            "Having moved",
+            "Moved"
+          ],
+          "answer": "Moving",
+          "why": "The two actions happen at almost the same time."
+        },
+        {
+          "type": "choice",
+          "q": "... in the neighbourhood for years, he knew everyone.",
+          "options": [
+            "Having lived",
+            "Living",
+            "To live"
+          ],
+          "answer": "Having lived",
+          "why": "A longer earlier state comes before the main action."
+        },
+        {
+          "type": "choice",
+          "q": "Nothing ... according to plan, so the project is unfinished.",
+          "options": [
+            "went",
+            "made",
+            "had"
+          ],
+          "answer": "went",
+          "why": "The fixed phrase is go according to plan."
+        }
+      ]
+    },
+    {
+      "id": "8b",
+      "code": "8B",
+      "title": "If the world ...",
+      "pages": "95–97",
+      "goals": [
+        "Learn vocabulary for world issues",
+        "Use conditionals with conjunctions",
+        "Discuss hypothetical consequences"
+      ],
+      "grammar": {
+        "title": "Conditionals with conjunctions",
+        "shortAr": "zero / first / second / third conditional مع provided, as long as, on condition that وunless.",
+        "points": [
+          "Zero conditional: if/when + present simple, present simple for general truths.",
+          "First conditional: if + present simple, will/can/may/might for future consequences.",
+          "Second conditional: if + past simple, would; formal were can replace was. Third: if + past perfect, would have.",
+          "Provided/providing (that) and as long as/so long as mean only if; on condition that is stronger; unless means if not."
+        ],
+        "table": [
+          [
+            "If + present, present — general truth",
+            "If a language has no speakers, it dies."
+          ],
+          [
+            "If + present, will — future result",
+            "If we act now, many languages will survive."
+          ],
+          [
+            "If + past, would — imaginary present",
+            "If we all spoke one language, life would be easier."
+          ],
+          [
+            "If + past perfect, would have — imaginary past",
+            "If there hadn't been a campaign, Cornish would have disappeared."
+          ],
+          [
+            "as long as / unless — conditions",
+            "As long as people speak it, it will survive; unless we act, it may die."
+          ]
+        ],
+        "exceptions": [
+          "Unless is already negative, so do not add another negative to the same clause.",
+          "In formal second conditionals, use were instead of was."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "literacy",
+          "ar": "محو الأمية / القدرة على القراءة والكتابة",
+          "example": "Low literacy limits access to higher education."
+        },
+        {
+          "word": "justice",
+          "ar": "العدالة",
+          "example": "People want laws used with justice."
+        },
+        {
+          "word": "endangered languages",
+          "ar": "لغات مهددة بالانقراض",
+          "example": "Thousands of languages are endangered."
+        },
+        {
+          "word": "overcrowding",
+          "ar": "الاكتظاظ",
+          "example": "Overcrowding is a serious problem in big cities."
+        },
+        {
+          "word": "unemployment",
+          "ar": "البطالة",
+          "example": "Unemployment can cause many other problems."
+        },
+        {
+          "word": "global warming",
+          "ar": "الاحترار العالمي",
+          "example": "Global warming is raising sea levels."
+        },
+        {
+          "word": "homelessness",
+          "ar": "التشرد",
+          "example": "Homelessness means people have nowhere to live."
+        },
+        {
+          "word": "poverty",
+          "ar": "الفقر",
+          "example": "Poverty means people cannot afford basic needs."
+        },
+        {
+          "word": "civil rights",
+          "ar": "الحقوق المدنية",
+          "example": "People still fight for civil rights in many countries."
+        }
+      ],
+      "reading": {
+        "summary": "An infographic imagines the world as a village of 100 people and gives statistics about literacy, poverty, housing, languages and technology."
+      },
+      "listening": [
+        {
+          "track": "8.02",
+          "audioFile": "083_SO3_B2_SB_8B_Audio_8_02.mp3",
+          "summary": "Introduction to a talk about world issues, checking the infographic statistics."
+        },
+        {
+          "track": "8.03",
+          "audioFile": "084_SO3_B2_SB_8B_Audio_8_03.mp3",
+          "summary": "Part of the talk about endangered languages and ways of keeping them alive."
+        },
+        {
+          "track": "8.04",
+          "audioFile": "085_SO3_B2_SB_8B_Audio_8_04.mp3",
+          "summary": "Practice identifying main stress in conditional sentences."
+        }
+      ],
+      "video": {
+        "file": "",
+        "summary": ""
+      },
+      "speaking": [
+        "Choose several What if... questions and discuss their consequences with your group.",
+        "Agree or disagree with each other's predictions and explain why."
+      ],
+      "writing": [
+        "Write three conditional sentences about world issues and say whether you agree with their predictions."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "If a language ... no native speakers, it dies.",
+          "options": [
+            "has",
+            "had",
+            "will have"
+          ],
+          "answer": "has",
+          "why": "A zero conditional describes a general truth."
+        },
+        {
+          "type": "choice",
+          "q": "If everyone ... the same language, communication would be easier.",
+          "options": [
+            "spoke",
+            "speaks",
+            "would speak"
+          ],
+          "answer": "spoke",
+          "why": "A second conditional uses if + past simple."
+        },
+        {
+          "type": "choice",
+          "q": "If they ... a conscious effort, Cornish would have disappeared.",
+          "options": [
+            "hadn't made",
+            "didn't make",
+            "wouldn't make"
+          ],
+          "answer": "hadn't made",
+          "why": "A third conditional uses if + past perfect."
+        },
+        {
+          "type": "choice",
+          "q": "... we make an effort, many languages will die.",
+          "options": [
+            "Unless",
+            "Provided that",
+            "As long as"
+          ],
+          "answer": "Unless",
+          "why": "Unless means if not."
+        }
+      ]
+    },
+    {
+      "id": "8c",
+      "code": "8C",
+      "title": "Online communities",
+      "pages": "98–99",
+      "goals": [
+        "Recognise prepositional phrases in an article",
+        "Structure a claim, evidence and impact",
+        "Take part in a short debate"
+      ],
+      "grammar": {
+        "title": "Developing an argument: prepositional phrases",
+        "shortAr": "by far / on the whole / in fact / at least / in order to / at the same time لتنظيم الحجة.",
+        "points": [
+          "Start with a claim using I'd like to start off by saying or As far as I can see.",
+          "Support it with evidence such as A good example of this is and The evidence suggests that.",
+          "Show impact with As a result, The obvious impact of this is and This would lead to.",
+          "Prepositional phrases such as by far, on the whole, in fact and at least add emphasis, generality or a minimum."
+        ],
+        "table": [
+          [
+            "Making a claim",
+            "I'd like to start off by saying that I agree."
+          ],
+          [
+            "Presenting evidence",
+            "A good example of this is my local group."
+          ],
+          [
+            "Showing impact",
+            "As a result, people feel more connected."
+          ],
+          [
+            "by far — strong emphasis",
+            "It's by far the most important factor."
+          ],
+          [
+            "on the whole — generally",
+            "On the whole, online groups help local communities."
+          ]
+        ],
+        "exceptions": [
+          "In order to is followed by an infinitive, not an -ing form.",
+          "In fact emphasises a point, while on the whole gives a general view."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "by far",
+          "ar": "بفارق كبير / على الإطلاق",
+          "example": "It is by far the most important factor."
+        },
+        {
+          "word": "on the whole",
+          "ar": "بصفة عامة",
+          "example": "On the whole, people enjoy online communities."
+        },
+        {
+          "word": "at least",
+          "ar": "على الأقل",
+          "example": "Can you name at least six neighbours?"
+        },
+        {
+          "word": "out of control",
+          "ar": "خارج عن السيطرة",
+          "example": "She feared things would get out of control."
+        },
+        {
+          "word": "in order to",
+          "ar": "من أجل",
+          "example": "They met in order to clean the streets."
+        },
+        {
+          "word": "in fact",
+          "ar": "في الواقع",
+          "example": "In fact, a volunteer group had already done the work."
+        },
+        {
+          "word": "at the same time",
+          "ar": "في الوقت نفسه",
+          "example": "At the same time, they were happy to help."
+        },
+        {
+          "word": "as far as I can see",
+          "ar": "في رأيي / حسب ما أرى",
+          "example": "As far as I can see, online groups are useful."
+        }
+      ],
+      "reading": {
+        "summary": "An article asks whether social media builds better local communities and tells how Annie Lorraine used a Facebook group after London protests. A volunteer group had already cleaned up, but many participants stayed in touch."
+      },
+      "listening": [
+        {
+          "track": "8.05",
+          "audioFile": "086_SO3_B2_SB_8C_Audio_8_05.mp3",
+          "summary": "Two speakers discuss whether online communities are the best way to connect with similar people."
+        },
+        {
+          "track": "GB8",
+          "audioFile": "087_SO3_B2_SB_8C_Audio_GB8_01.mp3",
+          "summary": "Grammar-bank answers for the argument-structure exercise."
+        },
+        {
+          "track": "8.06",
+          "audioFile": "088_SO3_B2_SB_8C_Audio_8_06.mp3",
+          "summary": "Extracts practising extra stress and pauses that make an argument sound persuasive."
+        }
+      ],
+      "video": {
+        "file": "",
+        "summary": ""
+      },
+      "speaking": [
+        "Split into two teams, plan arguments for and against a debate topic, then present and vote.",
+        "Use claim, evidence and impact phrases when taking turns to speak."
+      ],
+      "writing": [
+        "Write a short argument about an online-community topic with a clear claim, examples and impact."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "... the best way to build a community is to work together.",
+          "options": [
+            "By far",
+            "At least",
+            "Out of control"
+          ],
+          "answer": "By far",
+          "why": "It makes a comparison stronger."
+        },
+        {
+          "type": "choice",
+          "q": "... it's easier to make friends face-to-face.",
+          "options": [
+            "On the whole",
+            "In order to",
+            "At least"
+          ],
+          "answer": "On the whole",
+          "why": "It introduces a general statement."
+        },
+        {
+          "type": "choice",
+          "q": "They met ... clean up the mess in the streets.",
+          "options": [
+            "in order to",
+            "in fact",
+            "at the same time"
+          ],
+          "answer": "in order to",
+          "why": "It gives the reason or purpose."
+        },
+        {
+          "type": "choice",
+          "q": "I'd like to start off ... saying that I agree.",
+          "options": [
+            "by",
+            "in",
+            "at"
+          ],
+          "answer": "by",
+          "why": "The fixed phrase is start off by saying."
+        }
+      ]
+    },
+    {
+      "id": "8d",
+      "code": "8D",
+      "title": "Second shot",
+      "pages": "100–101",
+      "goals": [
+        "Understand a documentary about helping homeless people",
+        "Use phrases with get",
+        "Plan and present a project and write a mission statement"
+      ],
+      "grammar": {
+        "title": "Phrases with get",
+        "shortAr": "get out / get back / get to / have got a big heart للتعبير عن الخروج من أزمة واستعادة الثقة.",
+        "points": [
+          "Get out of a situation means to escape from it.",
+          "Get something back or get your confidence back means to regain what was lost.",
+          "Get to the other side or get to where you are now means to reach a goal or stage.",
+          "Have got a big heart means to be kind and generous; get a hostel means to obtain a place to live."
+        ],
+        "table": [
+          [
+            "get out of — escape",
+            "It is hard to get out of homelessness."
+          ],
+          [
+            "get something back — regain",
+            "Training helps them get their confidence back."
+          ],
+          [
+            "get to the other side — reach the end",
+            "He wanted to get to the other side."
+          ],
+          [
+            "have got a big heart — be generous",
+            "Julius has got a big heart."
+          ],
+          [
+            "get somewhere / get a hostel — obtain",
+            "They have got somewhere to live now."
+          ]
+        ],
+        "exceptions": [
+          "Get is informal; choose a more formal verb in formal writing when appropriate."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "get out of homelessness",
+          "ar": "يخرج من التشرد",
+          "example": "It is difficult to get out of homelessness."
+        },
+        {
+          "word": "get their life back together",
+          "ar": "يعيد تنظيم حياته",
+          "example": "The cafe helps people get their life back together."
+        },
+        {
+          "word": "get their confidence back",
+          "ar": "يستعيد ثقته",
+          "example": "Julius helps trainees get their confidence back."
+        },
+        {
+          "word": "get to the other side",
+          "ar": "يصل إلى نهاية المحنة",
+          "example": "Edge believed he could get to the other side."
+        },
+        {
+          "word": "get to where you are now",
+          "ar": "يصل إلى وضعه الحالي",
+          "example": "He helped me get to where I am now."
+        },
+        {
+          "word": "have got a big heart",
+          "ar": "قلبه كبير / كريم",
+          "example": "Julius has got a big heart."
+        },
+        {
+          "word": "get a hostel",
+          "ar": "يحصل على مأوى",
+          "example": "One trainee said, 'I've got a hostel now.'"
+        },
+        {
+          "word": "get their lives back on track",
+          "ar": "يعيد حياتهم إلى مسارها",
+          "example": "The cafe helps homeless people get their lives back on track."
+        }
+      ],
+      "reading": {
+        "summary": "A BBC programme description introduces Julius, who opened a cafe in east London and trains homeless people as baristas to help them rebuild their lives."
+      },
+      "listening": [
+        {
+          "track": "8.07",
+          "audioFile": "089_SO3_B2_SB_8D_Audio_8_07.mp3",
+          "summary": "A talk about another project that helps homeless people, with key phrases for a presentation."
+        },
+        {
+          "track": "R8",
+          "audioFile": "090_SO3_B2_SB_8R_Audio_R8_01.mp3",
+          "summary": "Review listening to check answers in the gap-fill exercises."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U8 BBC Programmes.mp4",
+        "summary": "A documentary follows Julius and his cafe, which trains homeless people as baristas."
+      },
+      "speaking": [
+        "Plan a project to help people in need, then present it to the class using the key phrases.",
+        "Say which project is best and give reasons."
+      ],
+      "writing": [
+        "Write a mission statement summarising a project's aims and values."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "The training helps people ... their confidence ...",
+          "options": [
+            "get ... back",
+            "get ... out",
+            "get ... into"
+          ],
+          "answer": "get ... back",
+          "why": "It means to regain something they lost."
+        },
+        {
+          "type": "choice",
+          "q": "He had to work hard to ... the other side.",
+          "options": [
+            "get to",
+            "get off",
+            "get over"
+          ],
+          "answer": "get to",
+          "why": "It means to reach the end of a difficult situation."
+        },
+        {
+          "type": "choice",
+          "q": "Julius is kind and generous: he's ...",
+          "options": [
+            "got a big heart",
+            "got a hostel",
+            "got anywhere"
+          ],
+          "answer": "got a big heart",
+          "why": "This idiom describes a generous person."
+        },
+        {
+          "type": "choice",
+          "q": "One of the biggest problems ... homelessness.",
+          "options": [
+            "is",
+            "has",
+            "makes"
+          ],
+          "answer": "is",
+          "why": "This is a useful opening phrase for a project presentation."
+        }
+      ]
+    }
+  ],
+  "review": {
+    "summary": "Review participle clauses, conditional conjunctions, argument language and get phrases while recycling community and world-issue vocabulary.",
+    "tasks": [
+      "Choose the correct participle form and finish a short story about an unexpected meeting.",
+      "Rewrite conditional sentences with unless, provided that and on condition that.",
+      "Prepare a short talk on a community problem using claims, evidence and impact."
+    ],
+    "quiz": [
+      {
+        "q": "... my ticket the day before, I avoided the queues.",
+        "options": [
+          "Having bought",
+          "Buying",
+          "Bought"
+        ],
+        "answer": "Having bought",
+        "skill": "grammar"
+      },
+      {
+        "q": "... in the waiting room, she thought about her father.",
+        "options": [
+          "Sitting",
+          "Having sat",
+          "Sat"
+        ],
+        "answer": "Sitting",
+        "skill": "grammar"
+      },
+      {
+        "q": "... in the industry for thirty years, I know that isn't true.",
+        "options": [
+          "Having worked",
+          "Working",
+          "Work"
+        ],
+        "answer": "Having worked",
+        "skill": "grammar"
+      },
+      {
+        "q": "I'll lend you the car ... you promise to be back by five.",
+        "options": [
+          "provided",
+          "unless",
+          "despite"
+        ],
+        "answer": "provided",
+        "skill": "grammar"
+      },
+      {
+        "q": "You'll miss the bus ... you leave now.",
+        "options": [
+          "unless",
+          "provided that",
+          "as long as"
+        ],
+        "answer": "unless",
+        "skill": "grammar"
+      },
+      {
+        "q": "If we ... left on time, we wouldn't have been late.",
+        "options": [
+          "had",
+          "would have",
+          "have"
+        ],
+        "answer": "had",
+        "skill": "grammar"
+      },
+      {
+        "q": "I'll buy the food ... you do the cooking.",
+        "options": [
+          "as long as",
+          "unless",
+          "in order to"
+        ],
+        "answer": "as long as",
+        "skill": "grammar"
+      },
+      {
+        "q": "'Overcrowding' means ...",
+        "options": [
+          "too many people in one place",
+          "a lack of money",
+          "a missing language"
+        ],
+        "answer": "too many people in one place",
+        "skill": "vocab"
+      },
+      {
+        "q": "'Literacy' is the ability to ...",
+        "options": [
+          "read and write",
+          "find a home",
+          "vote in elections"
+        ],
+        "answer": "read and write",
+        "skill": "vocab"
+      },
+      {
+        "q": "'At least' means ...",
+        "options": [
+          "as a minimum",
+          "in general",
+          "in reality"
+        ],
+        "answer": "as a minimum",
+        "skill": "vocab"
+      },
+      {
+        "q": "'Get your confidence back' means ...",
+        "options": [
+          "regain confidence",
+          "lose your job",
+          "move to a new city"
+        ],
+        "answer": "regain confidence",
+        "skill": "vocab"
+      },
+      {
+        "q": "What did Annie Lorraine's Facebook group organise after the protests?",
+        "options": [
+          "A community clean-up",
+          "A music festival",
+          "A housing sale"
+        ],
+        "answer": "A community clean-up",
+        "skill": "reading"
+      },
+      {
+        "q": "What does Julius's cafe train homeless people to do?",
+        "options": [
+          "Work as baristas",
+          "Build houses",
+          "Drive buses"
+        ],
+        "answer": "Work as baristas",
+        "skill": "reading"
+      },
+      {
+        "q": "Which phrase shows the impact of an argument?",
+        "options": [
+          "As a result, ...",
+          "By the way, ...",
+          "Firstly, ..."
+        ],
+        "answer": "As a result, ...",
+        "skill": "communication"
+      }
+    ]
+  }
+}

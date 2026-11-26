@@ -1,0 +1,838 @@
+{
+  "unit": 5,
+  "title": "work",
+  "titleAr": "العمل",
+  "aim": "Talk about first days, changing careers, video-call problems and teamwork.",
+  "pages": "56–66",
+  "objectives": [
+    "Narrate past events with past perfect tenses",
+    "Describe past plans that changed",
+    "Explain tech problems and suggest solutions",
+    "Write a career report and a thank-you message"
+  ],
+  "lessons": [
+    {
+      "id": "5a",
+      "code": "5A",
+      "title": "First day!",
+      "pages": "56–57",
+      "goals": [
+        "Understand three first-day work stories",
+        "Use past perfect simple and continuous",
+        "Tell a story with feelings and reactions"
+      ],
+      "grammar": {
+        "title": "Past perfect simple and continuous",
+        "shortAr": "الماضي التام لحدث انتهى قبل حدث آخر، والماضي التام المستمر لحدث استمر حتى نقطة في الماضي.",
+        "points": [
+          "Past perfect simple: had + past participle for a completed action before another past action.",
+          "Past perfect continuous: had been + -ing for an activity in progress up to a past point.",
+          "Past simple carries the main events; past perfect forms give earlier background.",
+          "State verbs such as know, like and own normally use the past perfect simple."
+        ],
+        "table": [
+          [
+            "had + past participle: earlier completed action",
+            "I'd only passed my test the year before."
+          ],
+          [
+            "had been + -ing: activity before a past point",
+            "I'd been trying to get a place for ages."
+          ],
+          [
+            "past simple: main story event",
+            "My foot slipped and I drove into the car behind me."
+          ],
+          [
+            "state verb: had known / had loved",
+            "I'd known Sam since college."
+          ]
+        ],
+        "exceptions": [
+          "State verbs take the past perfect simple: I'd known him for years.",
+          "Past perfect continuous often explains a result visible later: She was tired because she'd been studying."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "for a while",
+          "ar": "لفترة من الوقت",
+          "example": "I hadn't driven for a while, so I felt nervous."
+        },
+        {
+          "word": "in no time",
+          "ar": "في وقت قصير جداً",
+          "example": "In no time, I'd met about twenty colleagues."
+        },
+        {
+          "word": "just moments earlier",
+          "ar": "قبل لحظات فقط",
+          "example": "I destroyed his car just moments earlier."
+        },
+        {
+          "word": "for ages",
+          "ar": "لوقت طويل جداً",
+          "example": "I'd been trying to get a place for ages."
+        },
+        {
+          "word": "up to that point",
+          "ar": "حتى تلك النقطة",
+          "example": "Up to that point I'd never been in a director's office."
+        },
+        {
+          "word": "by the time",
+          "ar": "بحلول الوقت الذي",
+          "example": "By the time I noticed him, I'd already met thirty people."
+        },
+        {
+          "word": "work the room",
+          "ar": "التحدث مع الحضور في فعالية",
+          "example": "At a reception you have to work the room."
+        },
+        {
+          "word": "small talk",
+          "ar": "حديث مجاملات عابر",
+          "example": "I'd been making small talk for hours."
+        },
+        {
+          "word": "laugh it off",
+          "ar": "تجاهل الموقف بضحكة",
+          "example": "He laughed it off and said it didn't matter."
+        }
+      ],
+      "reading": {
+        "summary": "Three new employees recount embarrassing first-day incidents: a company-car crash, being trapped on the 22nd floor, and mistaking the company founder for an ordinary guest. Colleagues respond with humour and support."
+      },
+      "listening": [
+        {
+          "track": "5.0X",
+          "audioFile": "046_SO3_B2_SB_5A_Audio_5_0X.mp3",
+          "summary": "Audio version of the first-day-at-work stories."
+        },
+        {
+          "track": "5.01",
+          "audioFile": "047_SO3_B2_SB_5A_Audio_5_01.mp3",
+          "summary": "Connected-speech practice with had been in past perfect continuous sentences."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U5 BBC Vlogs.mp4",
+        "summary": "Speakers say which professions they admire and why."
+      },
+      "speaking": [
+        "Tell a story about the first time you did something; include people's feelings and reactions."
+      ],
+      "writing": [
+        "Write a short account of a first-day mistake, adding how you and others reacted."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "When I arrived, the meeting ___ for ten minutes.",
+          "options": [
+            "had already started",
+            "has already started",
+            "was already starting"
+          ],
+          "answer": "had already started",
+          "why": "An earlier completed action before a past event takes the past perfect simple."
+        },
+        {
+          "type": "choice",
+          "q": "She was exhausted because she ___ all morning.",
+          "options": [
+            "had been working",
+            "has worked",
+            "worked"
+          ],
+          "answer": "had been working",
+          "why": "A continuous activity up to a past point uses had been + -ing."
+        },
+        {
+          "type": "choice",
+          "q": "I ___ him before, so I knew who he was.",
+          "options": [
+            "had known",
+            "had been knowing",
+            "know"
+          ],
+          "answer": "had known",
+          "why": "Know is a state verb and normally uses the past perfect simple."
+        },
+        {
+          "type": "choice",
+          "q": "By the time I got to the lift, I ___ my key card.",
+          "options": [
+            "didn't get",
+            "hadn't been given",
+            "wasn't giving"
+          ],
+          "answer": "hadn't been given",
+          "why": "The card was not provided before that moment, so the passive past perfect simple is needed."
+        }
+      ]
+    },
+    {
+      "id": "5b",
+      "code": "5B",
+      "title": "Change of plan",
+      "pages": "58–61",
+      "goals": [
+        "Discuss portfolio careers and career changes",
+        "Use structures for past plans and intentions",
+        "Write a report with recommendations"
+      ],
+      "grammar": {
+        "title": "Past plans and intentions",
+        "shortAr": "خطط سابقة تغيرت: was/were supposed/meant/going to/planning to + فعل، وthinking of/considering/planning on + -ing.",
+        "points": [
+          "Was/were supposed to, meant to, going to, planning to, hoping to and expecting to take an infinitive.",
+          "Was/were thinking of, considering and planning on take the -ing form.",
+          "These forms describe intentions that changed or did not happen, unlike plans that were kept."
+        ],
+        "table": [
+          [
+            "was / were supposed to + infinitive",
+            "I was supposed to become a lawyer."
+          ],
+          [
+            "was / were meant to + infinitive",
+            "I wasn't meant to become a teacher."
+          ],
+          [
+            "was / were planning to + infinitive",
+            "She was planning to meet us, but her car broke down."
+          ],
+          [
+            "was / were thinking of / considering + -ing",
+            "He was thinking of being a musician."
+          ],
+          [
+            "was / were planning on + -ing",
+            "We were planning on staying in a hotel."
+          ]
+        ],
+        "exceptions": [
+          "Planning to meet and planning on meeting mean the same but take different forms.",
+          "For a plan that actually happened, use the past simple or past perfect instead."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "portfolio career",
+          "ar": "مسار مهني يضم عدة وظائف",
+          "example": "A portfolio career can include several jobs you enjoy."
+        },
+        {
+          "word": "advance",
+          "ar": "يتقدم في مساره المهني",
+          "example": "He wanted to advance his career."
+        },
+        {
+          "word": "entrepreneur",
+          "ar": "رائد أعمال",
+          "example": "She's a serial entrepreneur with three businesses."
+        },
+        {
+          "word": "part-time",
+          "ar": "بدوام جزئي",
+          "example": "He had a part-time job while at university."
+        },
+        {
+          "word": "reinvent",
+          "ar": "يغير مساره أو يعيد تعريف نفسه",
+          "example": "Is there an age limit to reinventing yourself?"
+        },
+        {
+          "word": "retrain",
+          "ar": "يتدرب من جديد على مهنة أخرى",
+          "example": "He retrained as an accountant."
+        },
+        {
+          "word": "set up",
+          "ar": "يؤسس شركة",
+          "example": "She set up her own business."
+        },
+        {
+          "word": "start out",
+          "ar": "يبدأ مساره المهني",
+          "example": "He started out as an investment banker."
+        },
+        {
+          "word": "switch",
+          "ar": "يغير الوظيفة أو المسار",
+          "example": "Is it best to switch careers in mid-life?"
+        }
+      ],
+      "reading": {
+        "summary": "A BBC radio programme asks whether one career is enough and introduces portfolio careers, with guests offering different views on multiple jobs and new skills. Listeners' comments describe ambitions that changed."
+      },
+      "listening": [
+        {
+          "track": "5.02",
+          "audioFile": "048_SO3_B2_SB_5B_Audio_5_02.mp3",
+          "summary": "Radio programme about the advantages and drawbacks of portfolio careers."
+        },
+        {
+          "track": "5.03",
+          "audioFile": "049_SO3_B2_SB_5B_Audio_5_03.mp3",
+          "summary": "Check of work and career vocabulary from the programme."
+        },
+        {
+          "track": "VB5",
+          "audioFile": "050_SO3_B2_SB_5B_Audio_VB5_01.mp3",
+          "summary": "Vocabulary bank practice on areas of work."
+        },
+        {
+          "track": "5.04",
+          "audioFile": "051_SO3_B2_SB_5B_Audio_5_04.mp3",
+          "summary": "Pronunciation of the intrusive /w/ sound in past-intention phrases."
+        }
+      ],
+      "speaking": [
+        "Tell a partner about a plan you had to change and how things turned out."
+      ],
+      "writing": [
+        "Write a short report with an introduction, main issues and recommendations about young people's career choices."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "I ___ become a lawyer, but I changed my mind.",
+          "options": [
+            "was supposed to",
+            "was thinking of",
+            "am planning on"
+          ],
+          "answer": "was supposed to",
+          "why": "A past intention with an infinitive that did not happen uses was supposed to."
+        },
+        {
+          "type": "choice",
+          "q": "She was considering ___ careers.",
+          "options": [
+            "switch",
+            "switching",
+            "to switch"
+          ],
+          "answer": "switching",
+          "why": "Consider is followed by the -ing form."
+        },
+        {
+          "type": "choice",
+          "q": "He ___ to become a doctor, but his grades weren't good enough.",
+          "options": [
+            "was planning on study",
+            "was planning to study",
+            "plans studying"
+          ],
+          "answer": "was planning to study",
+          "why": "Planning to takes an infinitive; planning on takes -ing."
+        },
+        {
+          "type": "choice",
+          "q": "We ___ in a hotel, but we found a cottage instead.",
+          "options": [
+            "were planning on staying",
+            "were planning stay",
+            "plan on staying"
+          ],
+          "answer": "were planning on staying",
+          "why": "Planning on is followed by -ing and signals a changed plan."
+        }
+      ]
+    },
+    {
+      "id": "5c",
+      "code": "5C",
+      "title": "You're on mute!",
+      "pages": "62–63",
+      "goals": [
+        "Recognise common video-call problems",
+        "Suggest solutions and explain why they may work",
+        "Use intonation to sound more or less confident"
+      ],
+      "grammar": {
+        "title": "Describing problems and suggesting solutions",
+        "shortAr": "وصف عطل أو صعوبة، ثم اقتراح حل بلطف وتفسير سبب احتمال نجاحه.",
+        "points": [
+          "Use I can't get the ... working / to work for a machine you cannot start.",
+          "Use keep + -ing for problems that happen repeatedly.",
+          "Suggest with Maybe/Perhaps you could + infinitive, Why don't you try + -ing, or It might be worth + -ing.",
+          "Explain a possible fix with That might work because ... or It sometimes helps if + infinitive."
+        ],
+        "table": [
+          [
+            "FUNCTION",
+            "EXAMPLE"
+          ],
+          [
+            "Describe a problem",
+            "I can't get the screen share working."
+          ],
+          [
+            "Repeated problem",
+            "The sound keeps cutting out."
+          ],
+          [
+            "Suggest a solution",
+            "Perhaps you could try logging off and on again."
+          ],
+          [
+            "Worth trying",
+            "It might be worth checking the chat box."
+          ],
+          [
+            "Why it may work",
+            "It sometimes helps if you turn down the volume."
+          ]
+        ],
+        "exceptions": [
+          "Why don't you try is followed by -ing, but Maybe you could is followed by the infinitive without to.",
+          "It sometimes helps if takes an infinitive without to, not an -ing form."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "on mute",
+          "ar": "الميكروفون مغلق",
+          "example": "Please stay on mute if you aren't speaking."
+        },
+        {
+          "word": "unmute",
+          "ar": "يفتح الميكروفون",
+          "example": "Remember to unmute yourself before you talk."
+        },
+        {
+          "word": "webcam",
+          "ar": "كاميرا ويب",
+          "example": "Check the webcam is at eye level."
+        },
+        {
+          "word": "chat box",
+          "ar": "نافذة المحادثة",
+          "example": "The host checks the chat box regularly."
+        },
+        {
+          "word": "invite",
+          "ar": "دعوة للاجتماع",
+          "example": "Respond to the invite before the meeting."
+        },
+        {
+          "word": "frozen",
+          "ar": "صورة متجمدة",
+          "example": "Check that no one is frozen on screen."
+        },
+        {
+          "word": "link",
+          "ar": "رابط",
+          "example": "Post the document as a link in the chat box."
+        },
+        {
+          "word": "host",
+          "ar": "مضيف الاجتماع",
+          "example": "The host controls the meeting."
+        },
+        {
+          "word": "echo",
+          "ar": "صدى في الصوت",
+          "example": "Make sure there isn't an echo or a delay."
+        }
+      ],
+      "reading": {
+        "summary": "The article lists practical rules for video meetings: reply to the invite, check the connection, light and background, keep the camera on, mute when silent, watch the chat box and check the sound."
+      },
+      "listening": [
+        {
+          "track": "5.05",
+          "audioFile": "052_SO3_B2_SB_5C_Audio_5_05.mp3",
+          "summary": "Three video calls in which speakers break basic meeting rules."
+        },
+        {
+          "track": "5.06",
+          "audioFile": "053_SO3_B3_SB_5C_Audio_5_06.mp3",
+          "summary": "Extracts with problem phrases and possible technical fixes."
+        },
+        {
+          "track": "5.07",
+          "audioFile": "054_SO3_B2_SB_5C_Audio_5_07.mp3",
+          "summary": "Suggestions spoken with different intonation to show confidence."
+        },
+        {
+          "track": "5.08",
+          "audioFile": "055_SO3_B2_SB_5C_Audio_5_08.mp3",
+          "summary": "More practice identifying confident suggestion intonation."
+        },
+        {
+          "track": "MB5",
+          "audioFile": "056_SO3_B2_SB_5C_Audio_MB5_01.mp3",
+          "summary": "Model mediation exchange about expanding ideas and agreeing a solution."
+        }
+      ],
+      "speaking": [
+        "Role-play a video call: explain a frozen screen or microphone problem, offer fixes and say when one works."
+      ],
+      "writing": [
+        "Write a short chat message describing a call problem and two possible solutions."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "I can't ___ the webcam working.",
+          "options": [
+            "get",
+            "make",
+            "let"
+          ],
+          "answer": "get",
+          "why": "The fixed phrase is can't get the ... working."
+        },
+        {
+          "type": "choice",
+          "q": "The picture ___ disappearing every few seconds.",
+          "options": [
+            "keeps",
+            "stops",
+            "tries"
+          ],
+          "answer": "keeps",
+          "why": "Keep + -ing describes a repeatedly occurring problem."
+        },
+        {
+          "type": "choice",
+          "q": "___ try turning down the volume?",
+          "options": [
+            "Why don't you",
+            "It might be worth",
+            "It sometimes helps if"
+          ],
+          "answer": "Why don't you",
+          "why": "This suggestion pattern is followed by try + -ing."
+        },
+        {
+          "type": "choice",
+          "q": "It sometimes helps ___ away from the mic.",
+          "options": [
+            "if you move",
+            "if you moving",
+            "you to move"
+          ],
+          "answer": "if you move",
+          "why": "The pattern is it sometimes helps if + present simple."
+        }
+      ]
+    },
+    {
+      "id": "5d",
+      "code": "5D",
+      "title": "Are you a team player?",
+      "pages": "64–65",
+      "goals": [
+        "Compare working alone and in a team",
+        "Use non-defining relative clauses to comment",
+        "Write a thank-you message"
+      ],
+      "grammar": {
+        "title": "Non-defining relative clauses for comments",
+        "shortAr": "جملة الموصول غير التحديدية تضيف تعليقاً أو رأياً بعد فاصلة، ولا تُستخدم لتحديد الشيء.",
+        "points": [
+          "Defining clauses identify a person or thing; non-defining clauses add extra information.",
+          "Use which for things or whole clauses, who for people, whose for possession, where for places and when for times.",
+          "Non-defining clauses are set off with commas.",
+          "At the end of a sentence, they can comment on the whole previous statement."
+        ],
+        "table": [
+          [
+            "TYPE / PRONOUN",
+            "EXAMPLE"
+          ],
+          [
+            "which = thing / whole clause",
+            "We worked in a small office, which wasn't very comfortable."
+          ],
+          [
+            "who = person",
+            "My new boss, who is great to work with, started last week."
+          ],
+          [
+            "whose = possession",
+            "Nicky Laird, whose books I love, joined the team."
+          ],
+          [
+            "where / when",
+            "The summer, when the weather is better, is ideal."
+          ],
+          [
+            "End-of-sentence comment",
+            "I worked with Tim, which was a real pleasure."
+          ]
+        ],
+        "exceptions": [
+          "Do not use that in non-defining relative clauses.",
+          "For a comment on a whole clause, use which rather than what."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "share accomplishments",
+          "ar": "يتقاسم الإنجازات",
+          "example": "In a team you can share accomplishments."
+        },
+        {
+          "word": "support each other",
+          "ar": "يدعم كل منهما الآخر",
+          "example": "Team members can support each other."
+        },
+        {
+          "word": "self-employed",
+          "ar": "يعمل لحسابه",
+          "example": "I'm self-employed, so working alone suits me."
+        },
+        {
+          "word": "perfectionist",
+          "ar": "شخص يطلب الكمال",
+          "example": "I'm a bit of a perfectionist about my work."
+        },
+        {
+          "word": "bounce ideas off someone",
+          "ar": "يتشارك الأفكار مع شخص لمناقشتها",
+          "example": "In a team you can bounce ideas off other people."
+        },
+        {
+          "word": "work online",
+          "ar": "يعمل عبر الإنترنت",
+          "example": "We had to do the whole project online."
+        },
+        {
+          "word": "group lunch",
+          "ar": "غداء جماعي",
+          "example": "We had a group lunch, which was really fun."
+        },
+        {
+          "word": "dangerous situation",
+          "ar": "موقف خطير",
+          "example": "I was in a dangerous situation, which was very scary."
+        }
+      ],
+      "reading": {
+        "summary": "Video interviews ask whether people prefer working alone or in a team; speakers mention shared achievements, mutual support, self-employment and a safety issue. Short extracts show how relative clauses add comments."
+      },
+      "listening": [
+        {
+          "track": "R5",
+          "audioFile": "057_SO3_B2_SB_5R_Audio_R5_01.mp3",
+          "summary": "Review audio for a text about people who changed careers, including Obama, Armani and Harrison Ford."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U5 BBC StreetInt.mp4",
+        "summary": "Street interviews about working alone or in a team and experiences of teamwork."
+      },
+      "speaking": [
+        "Discuss a successful team or solo experience and whether teams usually achieve better results."
+      ],
+      "writing": [
+        "Write a thank-you message to teammates, explaining what they did and why it mattered."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "My old team left everything to the last minute, ___ was frustrating.",
+          "options": [
+            "which",
+            "that",
+            "what"
+          ],
+          "answer": "which",
+          "why": "Which refers back to the whole previous clause."
+        },
+        {
+          "type": "choice",
+          "q": "We had a group lunch, ___ was really fun.",
+          "options": [
+            "which",
+            "who",
+            "where"
+          ],
+          "answer": "which",
+          "why": "A comment on an event uses which."
+        },
+        {
+          "type": "choice",
+          "q": "Yuki, ___ joined last year, has had a positive impact.",
+          "options": [
+            "which",
+            "who",
+            "whose"
+          ],
+          "answer": "who",
+          "why": "Who refers to a person in a non-defining clause."
+        },
+        {
+          "type": "choice",
+          "q": "The building, ___ was built in 1882, is being redecorated.",
+          "options": [
+            "that",
+            "which",
+            "what"
+          ],
+          "answer": "which",
+          "why": "Non-defining clauses take which, not that."
+        }
+      ]
+    }
+  ],
+  "review": {
+    "summary": "Review of first-day stories, changed career plans, call troubleshooting and comments on teamwork, with a career-change reading text.",
+    "tasks": [
+      "Rewrite sentences using past perfect simple or continuous.",
+      "Complete past-intention sentences with the correct infinitive or -ing form.",
+      "Finish the career-change article and check answers with the review audio."
+    ],
+    "quiz": [
+      {
+        "q": "When I got to the restaurant, I realised I ___ my purse at home.",
+        "options": [
+          "have left",
+          "had left",
+          "was leaving",
+          "leave"
+        ],
+        "answer": "had left",
+        "skill": "grammar"
+      },
+      {
+        "q": "I was tired because I ___ for two hours.",
+        "options": [
+          "ran",
+          "had been running",
+          "have run",
+          "running"
+        ],
+        "answer": "had been running",
+        "skill": "grammar"
+      },
+      {
+        "q": "I ___ physics at university, but I didn't get the grades.",
+        "options": [
+          "was meaning studying",
+          "was meant to study",
+          "was meant studying",
+          "mean to study"
+        ],
+        "answer": "was meant to study",
+        "skill": "grammar"
+      },
+      {
+        "q": "She was considering ___ careers.",
+        "options": [
+          "switch",
+          "to switch",
+          "switching",
+          "switched"
+        ],
+        "answer": "switching",
+        "skill": "grammar"
+      },
+      {
+        "q": "The colleague ___ car I had destroyed was very understanding.",
+        "options": [
+          "which",
+          "who",
+          "whose",
+          "that"
+        ],
+        "answer": "whose",
+        "skill": "grammar"
+      },
+      {
+        "q": "Which expression means 'for a very long time'?",
+        "options": [
+          "in no time",
+          "for ages",
+          "up to that point",
+          "just moments earlier"
+        ],
+        "answer": "for ages",
+        "skill": "vocab"
+      },
+      {
+        "q": "A career made up of several different jobs is a ___ career.",
+        "options": [
+          "part-time",
+          "portfolio",
+          "hosted",
+          "frozen"
+        ],
+        "answer": "portfolio",
+        "skill": "vocab"
+      },
+      {
+        "q": "If you aren't speaking on a video call, stay ___.",
+        "options": [
+          "on mute",
+          "on echo",
+          "on link",
+          "on host"
+        ],
+        "answer": "on mute",
+        "skill": "vocab"
+      },
+      {
+        "q": "In 'Oops!', what happened to Emma?",
+        "options": [
+          "She crashed a company car.",
+          "She got trapped on the 22nd floor.",
+          "She mistook the CEO for an ordinary guest.",
+          "She forgot her key card at home."
+        ],
+        "answer": "She mistook the CEO for an ordinary guest.",
+        "skill": "reading"
+      },
+      {
+        "q": "What is the main point of the career report on young people?",
+        "options": [
+          "Traditional jobs are the only secure jobs.",
+          "Young people's ambitions lag behind changing work.",
+          "Everyone should become an entrepreneur.",
+          "Universities should stop teaching business."
+        ],
+        "answer": "Young people's ambitions lag behind changing work.",
+        "skill": "reading"
+      },
+      {
+        "q": "A webcam image has stopped moving. Best problem phrase:",
+        "options": [
+          "There seems to be a problem with my picture.",
+          "It might be worth a picture.",
+          "I can't get the chat box.",
+          "That might work because the picture."
+        ],
+        "answer": "There seems to be a problem with my picture.",
+        "skill": "communication"
+      },
+      {
+        "q": "Polite suggestion for a tech problem:",
+        "options": [
+          "Maybe you could try logging off and on again.",
+          "You must log off now.",
+          "Log off and don't ask again.",
+          "It logs off."
+        ],
+        "answer": "Maybe you could try logging off and on again.",
+        "skill": "communication"
+      },
+      {
+        "q": "Which sentence adds a comment about the previous statement?",
+        "options": [
+          "The team that I work with won awards.",
+          "We worked in a small office, which was uncomfortable.",
+          "The office which is small is new.",
+          "The man who called is here."
+        ],
+        "answer": "We worked in a small office, which was uncomfortable.",
+        "skill": "communication"
+      }
+    ]
+  }
+}

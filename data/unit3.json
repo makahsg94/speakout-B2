@@ -1,0 +1,849 @@
+{
+  "unit": 3,
+  "title": "showtime",
+  "titleAr": "وقت العروض",
+  "aim": "Explore festivals, performing, film and music, and learn to emphasise ideas and speak vaguely.",
+  "pages": "32–42",
+  "objectives": [
+    "Describe festivals and explain how events can be sustainable",
+    "Talk about performing and focus attention with cleft sentences",
+    "Recommend films and series using vague language",
+    "Discuss music tastes and write a forum comment"
+  ],
+  "lessons": [
+    {
+      "id": "3a",
+      "code": "3A",
+      "title": "Festival",
+      "pages": "32–34",
+      "goals": [
+        "Learn festival and environment vocabulary",
+        "Use defining and non-defining relative clauses",
+        "Plan an eco-friendly festival and write a formal proposal"
+      ],
+      "grammar": {
+        "title": "Relative clauses",
+        "shortAr": "جمل الموصول: تعريفية بلا فواصل، وغير تعريفية بين فاصلتين",
+        "points": [
+          "Defining relative clauses identify which person or thing you mean; no commas are used.",
+          "Use who/that for people, which/that for things, whose for possession, where for places and when for times.",
+          "Non-defining clauses add extra information, take commas, and cannot use that or omit the pronoun.",
+          "In informal English prepositions end the clause; in formal English they may come before whom or which."
+        ],
+        "table": [
+          [
+            "Defining: who / which / that",
+            "The festival-goers who arrived by bus saved time."
+          ],
+          [
+            "Defining: where / when / whose",
+            "It is a venue where people can camp."
+          ],
+          [
+            "Object pronoun can be omitted",
+            "The wood (which) they reused was local."
+          ],
+          [
+            "Non-defining: commas, no that",
+            "Green Man, which began in 2003, is very popular."
+          ],
+          [
+            "Formal preposition before pronoun",
+            "The organiser to whom I spoke was helpful."
+          ]
+        ],
+        "exceptions": [
+          "Never use that in a non-defining relative clause.",
+          "Do not repeat the noun after the relative pronoun.",
+          "The relative pronoun cannot be omitted when it is the subject."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "festival-goer",
+          "ar": "حاضر المهرجان",
+          "example": "Festival-goers are encouraged to take their rubbish home."
+        },
+        {
+          "word": "venue",
+          "ar": "مكان إقامة الفعالية",
+          "example": "The festival moved to a larger venue by the river."
+        },
+        {
+          "word": "organiser",
+          "ar": "منظّم الفعالية",
+          "example": "The organisers want to cut waste this year."
+        },
+        {
+          "word": "performer",
+          "ar": "مؤدٍّ",
+          "example": "Several performers cancelled because of the heat."
+        },
+        {
+          "word": "attend",
+          "ar": "يحضر",
+          "example": "Thousands of people attend the event each summer."
+        },
+        {
+          "word": "line-up",
+          "ar": "قائمة المشاركين",
+          "example": "The line-up includes local bands and guest acts."
+        },
+        {
+          "word": "attract",
+          "ar": "يجذب",
+          "example": "Good food and live music attract big crowds."
+        },
+        {
+          "word": "atmosphere",
+          "ar": "أجواء",
+          "example": "The relaxed atmosphere makes the festival special."
+        },
+        {
+          "word": "sustainable",
+          "ar": "مستدام",
+          "example": "The organisers aim to run a sustainable event."
+        }
+      ],
+      "reading": {
+        "summary": "An article presents festivals as enjoyable but wasteful, mentioning plastic cups, abandoned tents and carbon emissions, and points to sustainable events as an alternative. A second text describes Burning Man's art, gift economy and 'leave no trace' policy."
+      },
+      "listening": [
+        {
+          "track": "3.0XA",
+          "audioFile": "023_SO3_B2_SB_3A_Audio_3_0XA.mp3",
+          "summary": "Introductory listening linked to festival vocabulary."
+        },
+        {
+          "track": "3.0XB",
+          "audioFile": "024_SO3_B2_SB_3A_Audio_3_0XB.mp3",
+          "summary": "Further festival-themed listening practice."
+        },
+        {
+          "track": "3.0XC",
+          "audioFile": "025_SO3_B2_SB_3A_Audio_3_0XC.mp3",
+          "summary": "Short listening extract about attending events."
+        },
+        {
+          "track": "VB3",
+          "audioFile": "026_SO3_B2_SB_3A_Audio_VB3_01.mp3",
+          "summary": "Vocabulary bank audio practising festival and environment words."
+        },
+        {
+          "track": "3.01",
+          "audioFile": "027_SO3_B2_SB_3A_Audio_3_01.mp3",
+          "summary": "Sentences with non-defining relative clauses for pitch practice."
+        },
+        {
+          "track": "3.02",
+          "audioFile": "028_SO3_B2_SB_3A_Audio_3_02.mp3",
+          "summary": "Listening and repetition of non-defining relative clauses."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U3 BBC Vlogs.mp4",
+        "summary": "Speakers talk about live events and performances they enjoy."
+      },
+      "speaking": [
+        "In groups, plan an eco-friendly festival: name, venue, line-up, atmosphere and sustainability measures, then present it.",
+        "Use collaboration phrases such as 'What do you reckon?' and 'Is everyone agreed?' to invite opinions and check agreement."
+      ],
+      "writing": [
+        "Write a formal email to a council proposing a sustainable festival, covering purpose, main features, eco-initiatives and closing remarks.",
+        "Replace informal phrases with formal ones such as 'Please feel free to contact us'."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "The festival, ... began in 2003, is one of the UK's best-loved events.",
+          "options": [
+            "which",
+            "that",
+            "who"
+          ],
+          "answer": "which",
+          "why": "Non-defining clauses use which; that is not possible."
+        },
+        {
+          "type": "choice",
+          "q": "Fuji Rock reuses wood ... would otherwise go to waste.",
+          "options": [
+            "who",
+            "which",
+            "where"
+          ],
+          "answer": "which",
+          "why": "It refers to a thing and acts as the subject."
+        },
+        {
+          "type": "choice",
+          "q": "The venue ... the concert took place was outside the city.",
+          "options": [
+            "where",
+            "who",
+            "whose"
+          ],
+          "answer": "where",
+          "why": "Where refers to a place."
+        },
+        {
+          "type": "choice",
+          "q": "This is the activist ... tent collapsed in the night.",
+          "options": [
+            "who",
+            "whose",
+            "which"
+          ],
+          "answer": "whose",
+          "why": "Whose shows possession."
+        }
+      ]
+    },
+    {
+      "id": "3b",
+      "code": "3B",
+      "title": "Performers",
+      "pages": "35–37",
+      "goals": [
+        "Learn phrasal verbs for performing and communication",
+        "Use cleft sentences to emphasise key information",
+        "Reflect on speaking techniques and advise a performer"
+      ],
+      "grammar": {
+        "title": "Cleft sentences",
+        "shortAr": "جمل التركيز: It is/was ... who/that و What ... is/was ...",
+        "points": [
+          "A cleft sentence splits one idea into two parts, each with its own verb, to emphasise one element.",
+          "It is/was + focused noun + who/that + rest of the sentence emphasises the element after be.",
+          "What + subject + verb + is/was emphasises the element after what.",
+          "Use the singular verb be after It and What, even with a plural noun."
+        ],
+        "table": [
+          [
+            "It is/was ... who ... (people)",
+            "It was a friend who suggested deep breathing."
+          ],
+          [
+            "It is/was ... that ... (things / time)",
+            "It was the build-up that scared me most."
+          ],
+          [
+            "What + subject + present + is ...",
+            "What works for me is visualising the audience."
+          ],
+          [
+            "What + subject + past + was ...",
+            "What I needed to do was prepare mentally."
+          ],
+          [
+            "Singular be after What",
+            "What helped me was the advice, not the practice."
+          ]
+        ],
+        "exceptions": [
+          "Do not use a plural verb after What in this structure.",
+          "Use who for people and that for things or circumstances."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "come up with",
+          "ar": "يتوصل إلى فكرة",
+          "example": "She came up with a clever idea for the show."
+        },
+        {
+          "word": "mess up",
+          "ar": "يفسد الأداء أو يخطئ",
+          "example": "I was afraid I would mess up my lines."
+        },
+        {
+          "word": "live up to",
+          "ar": "يفي بالتوقعات",
+          "example": "The concert lived up to our expectations."
+        },
+        {
+          "word": "put off",
+          "ar": "يشتت انتباهه",
+          "example": "Noise from the crowd put me off."
+        },
+        {
+          "word": "carry on",
+          "ar": "يستمر",
+          "example": "Despite the mistakes, she carried on performing."
+        },
+        {
+          "word": "put up with",
+          "ar": "يتحمل",
+          "example": "Actors put up with noisy audiences."
+        },
+        {
+          "word": "end up",
+          "ar": "ينتهي به المطاف",
+          "example": "We ended up laughing about it."
+        },
+        {
+          "word": "fall back on",
+          "ar": "يعتمد عليه عند الحاجة",
+          "example": "Experience is something to fall back on."
+        },
+        {
+          "word": "come across",
+          "ar": "يبدو للآخرين",
+          "example": "He comes across as very confident on stage."
+        }
+      ],
+      "reading": {
+        "summary": "A social-media thread collects advice about stage fright: performers describe forgetting lines, dealing with hecklers and relying on experience, visualisation and deep breathing."
+      },
+      "listening": [
+        {
+          "track": "3.03",
+          "audioFile": "029_SO3_B2_SB_3B_Audio_3_03.mp3",
+          "summary": "Podcast extract in which performers share experiences of stage fright and advice."
+        },
+        {
+          "track": "3.04",
+          "audioFile": "030_SO3_B2_SB_3B_Audio_3_04.mp3",
+          "summary": "Listening practice on emphatic stress in cleft sentences."
+        }
+      ],
+      "speaking": [
+        "Take turns speaking for 30 seconds on everyday topics, then discuss what was difficult and what to improve.",
+        "Advise a friend who is nervous about performing, using cleft sentences to focus on the best technique."
+      ],
+      "writing": [
+        "Write a short forum reply giving a performer advice, using at least two cleft sentences.",
+        "List three ways to cope with stage fright and explain why each one helps."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "What I needed to do ... prepare both physically and mentally.",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "answer": "was",
+          "why": "Singular be follows What in a cleft sentence."
+        },
+        {
+          "type": "choice",
+          "q": "It's the character ... matters, not the costume.",
+          "options": [
+            "which",
+            "that",
+            "who"
+          ],
+          "answer": "that",
+          "why": "Emphasis on a thing uses It is ... that."
+        },
+        {
+          "type": "choice",
+          "q": "Which phrasal verb means 'to use a plan when other options fail'?",
+          "options": [
+            "carry on",
+            "fall back on",
+            "put up with"
+          ],
+          "answer": "fall back on",
+          "why": "It means relying on something as a last resort."
+        },
+        {
+          "type": "choice",
+          "q": "The audience's coughing really ... me ... during the solo.",
+          "options": [
+            "put ... off",
+            "messed ... up",
+            "came ... up with"
+          ],
+          "answer": "put ... off",
+          "why": "It means distracted me."
+        }
+      ]
+    },
+    {
+      "id": "3c",
+      "code": "3C",
+      "title": "Binge-watch",
+      "pages": "38–39",
+      "goals": [
+        "Learn film and TV vocabulary",
+        "Use vague language to sound less direct",
+        "Recommend a series and discuss viewing habits"
+      ],
+      "grammar": {
+        "title": "Vague language",
+        "shortAr": "لغة غامضة: sort of/kind of، around، -ish، and that kind of thing",
+        "points": [
+          "Vague words soften facts when details are uncertain, forgotten or unimportant.",
+          "Use thing, bit, stuff and what's her name? instead of precise nouns or names.",
+          "Use around, about, -odd or or so for approximate numbers, and -ish for adjectives and ages.",
+          "End lists with and stuff, and everything, and so on or and that kind of thing."
+        ],
+        "table": [
+          [
+            "sort of / kind of + clause",
+            "It's kind of like a detective drama."
+          ],
+          [
+            "around / about + number",
+            "There are around ten episodes."
+          ],
+          [
+            "number + -odd / or so",
+            "The series lasted two days or so."
+          ],
+          [
+            "adjective / age + -ish",
+            "She's twenty-ish and tall-ish."
+          ],
+          [
+            "list + and that kind of thing",
+            "I watch crime drama, thrillers and that kind of thing."
+          ]
+        ],
+        "exceptions": [
+          "Do not use -odd with adjectives.",
+          "Use what's his/her name? only when you cannot remember someone's name."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "binge-watch",
+          "ar": "يشاهد مسلسلاً دفعة واحدة",
+          "example": "I binge-watched the whole series in one evening."
+        },
+        {
+          "word": "subtitles",
+          "ar": "ترجمة على الشاشة",
+          "example": "I watched the film with subtitles."
+        },
+        {
+          "word": "cast",
+          "ar": "طاقم الممثلين",
+          "example": "The cast includes several well-known actors."
+        },
+        {
+          "word": "soundtrack",
+          "ar": "الموسيقى التصويرية",
+          "example": "I downloaded the soundtrack after watching the film."
+        },
+        {
+          "word": "twist",
+          "ar": "منعطف مفاجئ في الحبكة",
+          "example": "The ending has a brilliant twist."
+        },
+        {
+          "word": "be set in",
+          "ar": "تقع أحداثه في",
+          "example": "The series is set in Sweden."
+        },
+        {
+          "word": "be based on",
+          "ar": "مبني على",
+          "example": "The film is based on a true story."
+        },
+        {
+          "word": "gripping",
+          "ar": "مثير للاهتمام بشدة",
+          "example": "Every episode is incredibly gripping."
+        },
+        {
+          "word": "costumes",
+          "ar": "أزياء",
+          "example": "The costumes in the series are beautiful."
+        }
+      ],
+      "reading": {
+        "summary": "An infographic gives facts about hours spent binge-watching and related habits; a matching task introduces film vocabulary such as cast, subtitles, soundtrack and plot twists."
+      },
+      "listening": [
+        {
+          "track": "3.05",
+          "audioFile": "031_SO3_B2_SB_3C_Audio_3_05.mp3",
+          "summary": "Three friends discuss two shows they have binge-watched and what they enjoyed."
+        },
+        {
+          "track": "3.06",
+          "audioFile": "032_SO3_B2_SB_3C_Audio_3_06.mp3",
+          "summary": "Extracts with vague language to complete while listening."
+        },
+        {
+          "track": "3.07",
+          "audioFile": "033_SO3_B3_SB_3C_Audio_3_07.mp3",
+          "summary": "Pronunciation practice on linking and elision in conversation."
+        }
+      ],
+      "speaking": [
+        "Recommend a film or TV programme to your group and answer questions about plot, cast and setting.",
+        "Describe a show with vague language when you do not remember exact details."
+      ],
+      "writing": [
+        "Write a short review of a series using film vocabulary and two vague expressions.",
+        "Rewrite a direct description so that it sounds more informal and less certain."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "The show is ... a detective drama, but it's mostly about chess.",
+          "options": [
+            "sort of",
+            "around",
+            "or so"
+          ],
+          "answer": "sort of",
+          "why": "It makes the description less exact."
+        },
+        {
+          "type": "choice",
+          "q": "It took two days ... to finish the series.",
+          "options": [
+            "or so",
+            "odd",
+            "ish"
+          ],
+          "answer": "or so",
+          "why": "It follows a number to show the amount is approximate."
+        },
+        {
+          "type": "choice",
+          "q": "The film is ... a true story.",
+          "options": [
+            "based on",
+            "set in",
+            "put off"
+          ],
+          "answer": "based on",
+          "why": "It means the story comes from real events."
+        },
+        {
+          "type": "choice",
+          "q": "The ... was excellent; all the actors gave great performances.",
+          "options": [
+            "cast",
+            "subtitles",
+            "soundtrack"
+          ],
+          "answer": "cast",
+          "why": "The cast is the group of actors in a film."
+        }
+      ]
+    },
+    {
+      "id": "3d",
+      "code": "3D",
+      "title": "Music lover?",
+      "pages": "40–41",
+      "goals": [
+        "Learn music genres and interview language",
+        "Use do and did for emphasis",
+        "Write a forum comment about music preferences"
+      ],
+      "grammar": {
+        "title": "do and did for emphasis",
+        "shortAr": "do/does/did للتوكيد في الجمل المثبتة، مع إبراز الفعل المساعد",
+        "points": [
+          "Use do, does or did in affirmative sentences to stress that something is true, often to contrast with another idea.",
+          "The auxiliary is stressed in speech: I do like classical music, but I can't stand opera.",
+          "Emphatic do can show strong feeling or confirm a belief with a question tag.",
+          "After do, does or did, use the base form of the main verb."
+        ],
+        "table": [
+          [
+            "do + base form (I/you/we/they)",
+            "I do listen to music at home."
+          ],
+          [
+            "does + base form (he/she/it)",
+            "She does enjoy playing the piano."
+          ],
+          [
+            "did + base form (past)",
+            "I did enjoy the concert last night."
+          ],
+          [
+            "Contrast with a negative",
+            "I don't like jazz, but I do like soul."
+          ],
+          [
+            "Confirmation with a tag",
+            "You do like this band, don't you?"
+          ]
+        ],
+        "exceptions": [
+          "Do not add -s to the main verb after does.",
+          "Emphatic do is used in affirmative sentences, not ordinary negatives."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "gig",
+          "ar": "حفل موسيقي صغير",
+          "example": "We went to a gig last Friday."
+        },
+        {
+          "word": "genre",
+          "ar": "نوع موسيقي",
+          "example": "Jazz is my favourite genre."
+        },
+        {
+          "word": "lyrics",
+          "ar": "كلمات الأغنية",
+          "example": "I like the lyrics and the beat."
+        },
+        {
+          "word": "beat",
+          "ar": "إيقاع",
+          "example": "The beat makes the song easy to dance to."
+        },
+        {
+          "word": "improvise",
+          "ar": "يرتجل",
+          "example": "She can improvise when she plays the piano."
+        },
+        {
+          "word": "film score",
+          "ar": "موسيقى الفيلم",
+          "example": "I enjoy film scores as much as pop songs."
+        },
+        {
+          "word": "be into",
+          "ar": "يهتم ب",
+          "example": "I'm really into hip hop at the moment."
+        },
+        {
+          "word": "be a fan of",
+          "ar": "من معجبي",
+          "example": "I'm a big fan of live music."
+        },
+        {
+          "word": "can't stand",
+          "ar": "لا يحتمل",
+          "example": "I can't stand opera."
+        }
+      ],
+      "reading": {
+        "summary": "A video-preview page introduces speakers discussing their music tastes and how important music is in their daily lives; a questionnaire asks about instruments, singing and motivation."
+      },
+      "listening": [
+        {
+          "track": "R3",
+          "audioFile": "034_SO3_B2_SB_3R_Audio_R3_01.mp3",
+          "summary": "Review listening that checks answers to a story about putting on a show."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U3 BBC StreetInt.mp4",
+        "summary": "Street interviews ask people about music genres and live performances."
+      },
+      "speaking": [
+        "Ask and answer the music questionnaire, giving reasons with key phrases such as 'I'm a big fan of ...'.",
+        "Use do/did to correct a classmate's assumption about your music taste."
+      ],
+      "writing": [
+        "Post a forum comment saying what music you like and dislike, using emphatic do or did at least once.",
+        "Write three sentences contrasting two genres with do, does or did."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "I don't like opera, but I ... like classical music.",
+          "options": [
+            "do",
+            "does",
+            "did"
+          ],
+          "answer": "do",
+          "why": "Do emphasises the affirmative contrast."
+        },
+        {
+          "type": "choice",
+          "q": "She ... enjoy playing the drums, although she hates singing.",
+          "options": [
+            "do",
+            "does",
+            "did"
+          ],
+          "answer": "does",
+          "why": "Third-person singular uses does."
+        },
+        {
+          "type": "choice",
+          "q": "I ... call them, but they didn't answer.",
+          "options": [
+            "do",
+            "did",
+            "does"
+          ],
+          "answer": "did",
+          "why": "Past emphasis uses did."
+        },
+        {
+          "type": "choice",
+          "q": "Which word means a small live concert?",
+          "options": [
+            "gig",
+            "genre",
+            "score"
+          ],
+          "answer": "gig",
+          "why": "A gig is a live performance, often in a small venue."
+        }
+      ]
+    }
+  ],
+  "review": {
+    "summary": "Review of relative clauses, cleft sentences, festival, performance and film vocabulary, and emphasis in a story about an amateur show.",
+    "tasks": [
+      "Combine pairs of sentences with defining or non-defining relative clauses, adding commas where needed.",
+      "Rewrite sentences as cleft sentences to change the focus, e.g. 'It was ... who ...'.",
+      "Read a story about a community show and choose the best options for grammar and phrasal verbs."
+    ],
+    "quiz": [
+      {
+        "q": "The woman ... I met yesterday is Aki's mother.",
+        "options": [
+          "which",
+          "who",
+          "where",
+          "whose"
+        ],
+        "answer": "who",
+        "skill": "grammar"
+      },
+      {
+        "q": "This is the pen ... he wrote his books.",
+        "options": [
+          "which",
+          "who",
+          "whose",
+          "when"
+        ],
+        "answer": "which",
+        "skill": "grammar"
+      },
+      {
+        "q": "The festival, ... began in 2003, attracts huge crowds.",
+        "options": [
+          "that",
+          "which",
+          "who",
+          "where"
+        ],
+        "answer": "which",
+        "skill": "grammar"
+      },
+      {
+        "q": "What I'd like to know ... where the ticket went.",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "be"
+        ],
+        "answer": "is",
+        "skill": "grammar"
+      },
+      {
+        "q": "It was in 1923 ... the event first took place.",
+        "options": [
+          "which",
+          "that",
+          "who",
+          "where"
+        ],
+        "answer": "that",
+        "skill": "grammar"
+      },
+      {
+        "q": "I don't go to gigs, but I ... love live music at home.",
+        "options": [
+          "do",
+          "does",
+          "did",
+          "doing"
+        ],
+        "answer": "do",
+        "skill": "grammar"
+      },
+      {
+        "q": "There are ... ten episodes in the series.",
+        "options": [
+          "around",
+          "sort of",
+          "-ish",
+          "and stuff"
+        ],
+        "answer": "around",
+        "skill": "grammar"
+      },
+      {
+        "q": "Which phrasal verb means 'to continue doing something'?",
+        "options": [
+          "carry on",
+          "mess up",
+          "put off",
+          "end up"
+        ],
+        "answer": "carry on",
+        "skill": "vocab"
+      },
+      {
+        "q": "A person who plans a festival is a(n) ...",
+        "options": [
+          "festival-goer",
+          "organiser",
+          "performer",
+          "audience"
+        ],
+        "answer": "organiser",
+        "skill": "vocab"
+      },
+      {
+        "q": "The ... of the film includes several famous actors.",
+        "options": [
+          "cast",
+          "subtitles",
+          "soundtrack",
+          "venue"
+        ],
+        "answer": "cast",
+        "skill": "vocab"
+      },
+      {
+        "q": "Which phrase invites another person's opinion when planning a festival?",
+        "options": [
+          "What do you reckon?",
+          "It's a fair point",
+          "I can't stand it",
+          "It was the singer who messed up"
+        ],
+        "answer": "What do you reckon?",
+        "skill": "communication"
+      },
+      {
+        "q": "In 'The show goes on', what did the group initially lack?",
+        "options": [
+          "confidence and experience",
+          "a theatre",
+          "posters",
+          "a director"
+        ],
+        "answer": "confidence and experience",
+        "skill": "reading"
+      },
+      {
+        "q": "Why did the narrator move rehearsals to early morning?",
+        "options": [
+          "The theatre was closed",
+          "Everyone was tired in the evenings",
+          "The cast preferred singing",
+          "The audience arrived early"
+        ],
+        "answer": "Everyone was tired in the evenings",
+        "skill": "reading"
+      }
+    ]
+  }
+}

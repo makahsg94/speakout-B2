@@ -1,0 +1,823 @@
+{
+  "unit": 7,
+  "title": "talent",
+  "titleAr": "الموهبة",
+  "aim": "Explore how talents appear, are regretted, explained and developed through practice.",
+  "pages": "80–90",
+  "objectives": [
+    "Make and read deductions about past events",
+    "Express wishes and regrets with the right structures",
+    "Explain a process in clear, ordered stages",
+    "Contrast opinions with concession language"
+  ],
+  "lessons": [
+    {
+      "id": "7a",
+      "code": "7A",
+      "title": "An unexpected passion",
+      "pages": "80–82",
+      "goals": [
+        "Understand a story about a sudden talent",
+        "Use past modals of deduction",
+        "Describe lucky or unexpected events"
+      ],
+      "grammar": {
+        "title": "Past modals of deduction",
+        "shortAr": "must / might / can't + have + past participle للاستنتاج عن الماضي.",
+        "points": [
+          "Use must have + past participle when evidence makes something almost certain.",
+          "Use might, could or may have + past participle for a possibility you are not sure about.",
+          "Use can't or couldn't have + past participle when evidence makes something impossible.",
+          "Use modal + have been + -ing or a past participle for continuous or passive deductions."
+        ],
+        "table": [
+          [
+            "must have + past participle — near certainty",
+            "He must have practised for years."
+          ],
+          [
+            "might / could have + past participle — possibility",
+            "She might have had the talent as a child."
+          ],
+          [
+            "can't have + past participle — impossibility",
+            "It can't have been easy for his neighbours."
+          ],
+          [
+            "modal + have been + -ing — continuous",
+            "They can't have been living there very long."
+          ],
+          [
+            "modal + have been + past participle — passive",
+            "Her bag must have been stolen."
+          ]
+        ],
+        "exceptions": [
+          "For negative deductions use can't/couldn't have, not mustn't have.",
+          "In the passive, add been before the past participle."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "a bolt from the blue",
+          "ar": "صدمة غير متوقعة تمامًا",
+          "example": "His new passion was a bolt from the blue."
+        },
+        {
+          "word": "by chance",
+          "ar": "بالمصادفة",
+          "example": "By chance, an old babysitter left her piano at his home."
+        },
+        {
+          "word": "freak accident",
+          "ar": "حادث غريب غير متوقع",
+          "example": "After a freak accident, his life changed."
+        },
+        {
+          "word": "in an instant",
+          "ar": "في لحظة واحدة",
+          "example": "His interest appeared in an instant."
+        },
+        {
+          "word": "unexpected",
+          "ar": "غير متوقع",
+          "example": "Something unexpected happened at the pay phone."
+        },
+        {
+          "word": "fortunate",
+          "ar": "محظوظ",
+          "example": "He was fortunate to recover fully."
+        },
+        {
+          "word": "world-renowned",
+          "ar": "عالمي الشهرة",
+          "example": "He was a world-renowned surgeon."
+        },
+        {
+          "word": "time-consuming",
+          "ar": "يستغرق وقتًا طويلًا",
+          "example": "Practising every spare moment is time-consuming."
+        }
+      ],
+      "reading": {
+        "summary": "An article describes how surgeon Tony Cicoria was struck by lightning and suddenly developed an intense love of classical piano. He taught himself a melody from a dream and eventually performed his own composition, The Lightning Sonata."
+      },
+      "listening": [
+        {
+          "track": "7.0XA",
+          "audioFile": "068_SO3_B2_SB_7A_Audio_7_0XA.mp3",
+          "summary": "First part of the recording of the article about Tony Cicoria's sudden musical passion."
+        },
+        {
+          "track": "7.0XB",
+          "audioFile": "069_SO3_B2_SB_7A_Audio_7_0XB.mp3",
+          "summary": "Second part of the article recording, covering his practice and first composition."
+        },
+        {
+          "track": "7.01",
+          "audioFile": "071_SO3_B2_SB_7A_Audio_7_01.mp3",
+          "summary": "Connected-speech practice on past modals of deduction and weak forms of have."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U7 BBC Vlogs.mp4",
+        "summary": "Speakers talk about hidden talents and abilities they would like to have."
+      },
+      "speaking": [
+        "Retell Tony Cicoria's story, adding background and specific details to make it vivid.",
+        "Speculate about how his family, neighbours and colleagues reacted, using past modals."
+      ],
+      "writing": [
+        "Write a short paragraph speculating about the story with must have, might have and can't have."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "Cicoria's family ... surprised by his sudden interest.",
+          "options": [
+            "must have been",
+            "can't have been",
+            "might not have been"
+          ],
+          "answer": "must have been",
+          "why": "Strong evidence makes this almost certain."
+        },
+        {
+          "type": "choice",
+          "q": "He ... the talent since childhood, but never knew about it.",
+          "options": [
+            "might have had",
+            "must have had",
+            "can't have had"
+          ],
+          "answer": "might have had",
+          "why": "This is a possibility, not a certainty."
+        },
+        {
+          "type": "choice",
+          "q": "His neighbours ... pleased about the late-night piano playing.",
+          "options": [
+            "can't have been",
+            "must have been",
+            "might be"
+          ],
+          "answer": "can't have been",
+          "why": "A negative deduction based on strong evidence."
+        },
+        {
+          "type": "choice",
+          "q": "His bag ... while he was in the marketplace.",
+          "options": [
+            "must have been stolen",
+            "must have stolen",
+            "must have been stealing"
+          ],
+          "answer": "must have been stolen",
+          "why": "A passive deduction uses have been + past participle."
+        }
+      ]
+    },
+    {
+      "id": "7b",
+      "code": "7B",
+      "title": "I wish!",
+      "pages": "83–85",
+      "goals": [
+        "Talk about missed opportunities and regrets",
+        "Use wish, if only and should have correctly",
+        "Recognise common idioms for regrets"
+      ],
+      "grammar": {
+        "title": "Wish, if only and should have",
+        "shortAr": "wish / if only + past simple للحاضر، + past perfect للندم، should have + past participle.",
+        "points": [
+          "Use wish or if only + past simple or could for present situations you cannot change.",
+          "Use wish + object + would for annoying present behaviour; do not use it about yourself.",
+          "Use wish or if only + past perfect for past events you now regret.",
+          "Use should(n't) have + past participle to criticise or regret a past action."
+        ],
+        "table": [
+          [
+            "wish + past simple — present",
+            "I wish I had more time to practise."
+          ],
+          [
+            "wish + object + would — annoyance",
+            "I wish they would be quiet at night."
+          ],
+          [
+            "if only + past perfect — strong regret",
+            "If only I'd kept going with it."
+          ],
+          [
+            "wish + past perfect — past regret",
+            "I wish I'd gone to the trial."
+          ],
+          [
+            "should(n't) have + past participle",
+            "I shouldn't have given up so early."
+          ]
+        ],
+        "exceptions": [
+          "If only is more emotional than wish in the same structures.",
+          "Avoid 'I wish I would...' when talking about your own behaviour."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "a blessing in disguise",
+          "ar": "نعمة متخفية في ثوب محنة",
+          "example": "Losing that job was a blessing in disguise."
+        },
+        {
+          "word": "a piece of cake",
+          "ar": "أمر سهل جدًا",
+          "example": "I thought learning Italian would be a piece of cake."
+        },
+        {
+          "word": "miss the boat",
+          "ar": "يفوّت الفرصة",
+          "example": "I waited too long and missed the boat."
+        },
+        {
+          "word": "back to the drawing board",
+          "ar": "العودة إلى نقطة البداية",
+          "example": "The idea failed, so we went back to the drawing board."
+        },
+        {
+          "word": "not my cup of tea",
+          "ar": "ليس من اهتماماتي",
+          "example": "Skiing was definitely not my cup of tea."
+        },
+        {
+          "word": "the grass is greener on the other side",
+          "ar": "الآخرون دائمًا يبدون أفضل",
+          "example": "I left my old job and learnt the grass is greener on the other side."
+        },
+        {
+          "word": "take advantage of",
+          "ar": "استغلّ الفرصة",
+          "example": "I wish I'd taken advantage of my opportunities."
+        },
+        {
+          "word": "by heart",
+          "ar": "عن ظهر قلب",
+          "example": "He learnt the piano piece by heart."
+        }
+      ],
+      "reading": {
+        "summary": "Online forum posts share regrets about missed chances, easy-looking challenges and jobs left too soon. One writer explains that a disappointing result was actually a blessing in disguise."
+      },
+      "listening": [
+        {
+          "track": "7.02",
+          "audioFile": "072_SO3_B2_SB_7B_Audio_7_02.mp3",
+          "summary": "Three speakers describe talents they had but did not follow, and why."
+        },
+        {
+          "track": "7.03",
+          "audioFile": "073_SO3_B2_SB_7B_Audio_7_03.mp3",
+          "summary": "Extracts about quitting football, ignoring acting advice and leaving a band."
+        },
+        {
+          "track": "7.04",
+          "audioFile": "074_SO3_B2_SB_7B_Audio_7_04.mp3",
+          "summary": "Chunking practice: regret idioms pronounced as single units."
+        }
+      ],
+      "video": {
+        "file": "",
+        "summary": ""
+      },
+      "speaking": [
+        "Take turns discussing three personal regrets, explaining the decision, the result and how you feel now."
+      ],
+      "writing": [
+        "Write a personal essay connecting a real experience to a regret idiom and explaining what you learnt."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "I wish I ... to the trial when I had the chance.",
+          "options": [
+            "had gone",
+            "would go",
+            "go"
+          ],
+          "answer": "had gone",
+          "why": "A past regret takes wish + past perfect."
+        },
+        {
+          "type": "choice",
+          "q": "If only I ... so careless with that opportunity!",
+          "options": [
+            "hadn't been",
+            "wouldn't be",
+            "am not"
+          ],
+          "answer": "hadn't been",
+          "why": "If only + past perfect refers to a past regret."
+        },
+        {
+          "type": "choice",
+          "q": "I ... that job; the work was awful.",
+          "options": [
+            "shouldn't have taken",
+            "shouldn't take",
+            "should have taken"
+          ],
+          "answer": "shouldn't have taken",
+          "why": "shouldn't have + past participle criticises a past action."
+        },
+        {
+          "type": "choice",
+          "q": "The job I turned down led me to my partner: it was ...",
+          "options": [
+            "a blessing in disguise",
+            "a piece of cake",
+            "miss the boat"
+          ],
+          "answer": "a blessing in disguise",
+          "why": "The idiom means a bad event with a good outcome."
+        }
+      ]
+    },
+    {
+      "id": "7c",
+      "code": "7C",
+      "title": "Let me explain",
+      "pages": "86–87",
+      "goals": [
+        "Understand an article about explaining things clearly",
+        "Use phrasal verbs for explaining",
+        "Describe stages, necessity and warnings in a process"
+      ],
+      "grammar": {
+        "title": "Describing a process",
+        "shortAr": "To begin with / The next step / Once you've done... / It's essential / I'd recommend -ing / Avoid -ing.",
+        "points": [
+          "Introduce stages in order with To begin with, The next step is to and Once you've done that.",
+          "Say what is necessary with It's essential to/that... and The final stage involves + -ing.",
+          "Say what is recommended or optional with I'd recommend + -ing, This is optional and If you want, you can...",
+          "Warn about problems with Be careful not to..., Avoid + -ing and One common mistake is to..."
+        ],
+        "table": [
+          [
+            "To begin with, you'll want to ...",
+            "To begin with, get your ingredients together."
+          ],
+          [
+            "The next step is to ...",
+            "The next step is to make the sauce."
+          ],
+          [
+            "Once you've done that, ...",
+            "Once you've done that, add the vegetables."
+          ],
+          [
+            "It's essential to ... / I'd recommend -ing",
+            "It's essential to stir it; I'd recommend using olive oil."
+          ],
+          [
+            "Avoid + -ing / Be careful not to ...",
+            "Avoid taking it out early; be careful not to overcook it."
+          ]
+        ],
+        "exceptions": [
+          "Recommend and avoid are followed by -ing, not an infinitive.",
+          "After be careful, use not + infinitive with to."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "talk something through",
+          "ar": "شرح شيء من البداية للنهاية",
+          "example": "Talk me through the recipe step by step."
+        },
+        {
+          "word": "go over",
+          "ar": "مراجعة الأساسيات",
+          "example": "Go over a few basics before you start."
+        },
+        {
+          "word": "figure out",
+          "ar": "فهم شيء بالتفكير",
+          "example": "This helps you figure out what they know."
+        },
+        {
+          "word": "break down",
+          "ar": "تقسيم عملية إلى مراحل",
+          "example": "Break the process down into smaller stages."
+        },
+        {
+          "word": "leave out",
+          "ar": "حذف شيء سهوًا",
+          "example": "Don't leave out any important details."
+        },
+        {
+          "word": "slow down",
+          "ar": "البطء في الكلام أو العمل",
+          "example": "Slow down at the most important points."
+        },
+        {
+          "word": "go into",
+          "ar": "الدخول في تفاصيل",
+          "example": "Don't go into all the details now."
+        },
+        {
+          "word": "get across",
+          "ar": "إيصال المعلومة بوضوح",
+          "example": "Use diagrams to get the information across."
+        }
+      ],
+      "reading": {
+        "summary": "An article offers tips for explaining even a simple process: check what the listener knows, divide the task into stages, keep details limited and use creative ways to show meaning."
+      },
+      "listening": [
+        {
+          "track": "7.05",
+          "audioFile": "075_SO3_B2_SB_7C_Audio_7_05.mp3",
+          "summary": "Sentence practice focusing on stress in phrasal verbs used for explaining."
+        },
+        {
+          "track": "7.06",
+          "audioFile": "076_SO3_B2_SB_7C_Audio_7_06.mp3",
+          "summary": "A YouTuber explains how to make a vegetable lasagne and reveals a secret ingredient."
+        },
+        {
+          "track": "7.07",
+          "audioFile": "077_SO3_B2_SB_7C_Audio_7_07.mp3",
+          "summary": "Extracts practising phrases for stages, necessity and warnings in the lasagne explanation."
+        },
+        {
+          "track": "MB7",
+          "audioFile": "078_SO3_B2_SB_7C_Audio_MB7_01.mp3",
+          "summary": "Mediation model showing how to make a concept easier for someone else to understand."
+        }
+      ],
+      "video": {
+        "file": "",
+        "summary": ""
+      },
+      "speaking": [
+        "Teach a partner how to do something, using ordered stages, optional stages and warnings about problems.",
+        "Predict which parts of your explanation might be difficult and simplify them."
+      ],
+      "writing": [
+        "Write a short set of instructions for a simple process, marking essential and optional stages."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "Could you ... the instructions ... for me, from the beginning?",
+          "options": [
+            "talk ... through",
+            "break ... down",
+            "leave ... out"
+          ],
+          "answer": "talk ... through",
+          "why": "It means to explain something from beginning to end."
+        },
+        {
+          "type": "choice",
+          "q": "Let's ... the task ... into smaller stages.",
+          "options": [
+            "break ... down",
+            "go ... into",
+            "get ... across"
+          ],
+          "answer": "break ... down",
+          "why": "It means to separate a process into smaller parts."
+        },
+        {
+          "type": "choice",
+          "q": "It's ... to stir the sauce, or it won't be smooth.",
+          "options": [
+            "essential",
+            "optional",
+            "creative"
+          ],
+          "answer": "essential",
+          "why": "This marks a stage that is completely necessary."
+        },
+        {
+          "type": "choice",
+          "q": "Be careful not to ... any important details.",
+          "options": [
+            "leave out",
+            "figure out",
+            "slow down"
+          ],
+          "answer": "leave out",
+          "why": "It means to forget or omit something."
+        }
+      ]
+    },
+    {
+      "id": "7d",
+      "code": "7D",
+      "title": "Hard work or talent?",
+      "pages": "88–89",
+      "goals": [
+        "Join in a debate about talent and hard work",
+        "Use concession words to introduce contrasting ideas",
+        "Write a short opinion post"
+      ],
+      "grammar": {
+        "title": "Adverbials of concession",
+        "shortAr": "however / though / although / on the other hand لإدخال فكرة معاكسة.",
+        "points": [
+          "However introduces a contrasting sentence and is followed by a comma.",
+          "However cannot join two clauses in one sentence with just a comma.",
+          "Though or although can join clauses or start a sentence; only though can end a sentence.",
+          "On the one hand ... on the other hand presents both sides of an argument."
+        ],
+        "table": [
+          [
+            "However, ... — contrasting sentence",
+            "Talent matters. However, practice is still needed."
+          ],
+          [
+            "clause, though ... — joined clauses",
+            "Talent is great, though it is not enough."
+          ],
+          [
+            "Although ..., ... — beginning",
+            "Although she is talented, she never practises."
+          ],
+          [
+            "..., though. — end of sentence",
+            "The training was hard. It was fun, though."
+          ],
+          [
+            "On the one hand ... on the other hand ...",
+            "On the one hand talent helps; on the other hand work develops it."
+          ]
+        ],
+        "exceptions": [
+          "Although cannot come at the end of a sentence; use though instead.",
+          "Do not use however to join two clauses with a comma."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "natural talent",
+          "ar": "موهبة فطرية",
+          "example": "You still need some natural talent to help you."
+        },
+        {
+          "word": "put hard work in",
+          "ar": "يبذل جهدًا كبيرًا",
+          "example": "If you put enough hard work in, you will succeed."
+        },
+        {
+          "word": "get by on talent alone",
+          "ar": "يعتمد على الموهبة وحدها",
+          "example": "You can't get by on talent alone."
+        },
+        {
+          "word": "excel at something",
+          "ar": "يتفوق في شيء",
+          "example": "Talent helps you excel at a skill."
+        },
+        {
+          "word": "runs in my blood",
+          "ar": "موروث في العائلة",
+          "example": "I'm good at cooking; it runs in my blood."
+        },
+        {
+          "word": "get anywhere in life",
+          "ar": "يحقق تقدمًا في الحياة",
+          "example": "You must work hard to get anywhere in life."
+        },
+        {
+          "word": "necessary foundation",
+          "ar": "أساس ضروري",
+          "example": "Talent is a necessary foundation, but not enough."
+        },
+        {
+          "word": "drive and passion",
+          "ar": "دافع وشغف",
+          "example": "Drive and passion can take you further than talent."
+        }
+      ],
+      "reading": {
+        "summary": "Street interviews ask speakers whether talent or hard work matters more, and introduce common phrases for discussing natural ability, effort and family talents."
+      },
+      "listening": [
+        {
+          "track": "R7",
+          "audioFile": "079_SO3_B2_SB_7R_Audio_R7_01.mp3",
+          "summary": "Review listening for the gap-fill text about talent, practice and regrets."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U7 BBC StreetInt.mp4",
+        "summary": "Street interviews give different views on whether talent or hard work is more important."
+      },
+      "speaking": [
+        "Discuss three talents you wish you had and how others could use them, conceding and contrasting points.",
+        "Say whether someone around you has these talents and what we can learn from them."
+      ],
+      "writing": [
+        "Write a social media post giving your view on talent versus hard work."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "She is very talented, ... she never practises.",
+          "options": [
+            "though",
+            "however",
+            "on the other hand"
+          ],
+          "answer": "though",
+          "why": "Though can join two clauses in one sentence."
+        },
+        {
+          "type": "choice",
+          "q": "The training was hard. It was enjoyable, ...",
+          "options": [
+            "though",
+            "although",
+            "however"
+          ],
+          "answer": "though",
+          "why": "Only though can end a sentence."
+        },
+        {
+          "type": "choice",
+          "q": "... the weather was bad, we enjoyed the concert.",
+          "options": [
+            "Although",
+            "However",
+            "On the other hand"
+          ],
+          "answer": "Although",
+          "why": "Although introduces a contrasting clause at the beginning."
+        },
+        {
+          "type": "choice",
+          "q": "... the one hand talent helps, but on the other hand practice is vital.",
+          "options": [
+            "On the",
+            "In the",
+            "By the"
+          ],
+          "answer": "On the",
+          "why": "The fixed phrase is on the one hand ... on the other hand."
+        }
+      ]
+    }
+  ],
+  "review": {
+    "summary": "Review deduction, regrets, process language and concession while recycling talent vocabulary and idioms.",
+    "tasks": [
+      "Choose the correct past modal for each piece of evidence and speculate about strange scenarios.",
+      "Write sentences about your own wishes, regrets and decisions you would change.",
+      "Complete a short text with idioms, compound adjectives and explaining phrasal verbs."
+    ],
+    "quiz": [
+      {
+        "q": "He ... have left yet; his bag is still here.",
+        "options": [
+          "can't",
+          "must",
+          "might"
+        ],
+        "answer": "can't",
+        "skill": "grammar"
+      },
+      {
+        "q": "If you'd stayed in that job, you ... have been promoted.",
+        "options": [
+          "might",
+          "must",
+          "can't"
+        ],
+        "answer": "might",
+        "skill": "grammar"
+      },
+      {
+        "q": "She's been working beside you for months. You ... have met her!",
+        "options": [
+          "must",
+          "can't",
+          "might not"
+        ],
+        "answer": "must",
+        "skill": "grammar"
+      },
+      {
+        "q": "I wish I ... more time to practise the piano.",
+        "options": [
+          "had",
+          "have",
+          "would have"
+        ],
+        "answer": "had",
+        "skill": "grammar"
+      },
+      {
+        "q": "If only I ... my chance when I was younger!",
+        "options": [
+          "had taken",
+          "would take",
+          "take"
+        ],
+        "answer": "had taken",
+        "skill": "grammar"
+      },
+      {
+        "q": "I ... have given up so early; it was a mistake.",
+        "options": [
+          "shouldn't",
+          "wouldn't",
+          "couldn't"
+        ],
+        "answer": "shouldn't",
+        "skill": "grammar"
+      },
+      {
+        "q": "It's essential ... early for the concert.",
+        "options": [
+          "to book",
+          "booking",
+          "book"
+        ],
+        "answer": "to book",
+        "skill": "grammar"
+      },
+      {
+        "q": "I'd recommend ... a short break before you continue.",
+        "options": [
+          "taking",
+          "to take",
+          "take"
+        ],
+        "answer": "taking",
+        "skill": "grammar"
+      },
+      {
+        "q": "Talent is important, ... hard work is what develops it.",
+        "options": [
+          "though",
+          "however",
+          "despite"
+        ],
+        "answer": "though",
+        "skill": "grammar"
+      },
+      {
+        "q": "'World-renowned' means ...",
+        "options": [
+          "known all over the world",
+          "very old-fashioned",
+          "extremely expensive"
+        ],
+        "answer": "known all over the world",
+        "skill": "vocab"
+      },
+      {
+        "q": "'A blessing in disguise' describes ...",
+        "options": [
+          "a hidden benefit in a bad event",
+          "a very easy task",
+          "a missed opportunity"
+        ],
+        "answer": "a hidden benefit in a bad event",
+        "skill": "vocab"
+      },
+      {
+        "q": "'Leave out' means ...",
+        "options": [
+          "omit",
+          "explain slowly",
+          "divide into stages"
+        ],
+        "answer": "omit",
+        "skill": "vocab"
+      },
+      {
+        "q": "What caused Tony Cicoria's sudden love of piano music?",
+        "options": [
+          "A lightning strike",
+          "A piano lesson",
+          "A concert ticket"
+        ],
+        "answer": "A lightning strike",
+        "skill": "reading"
+      },
+      {
+        "q": "Which reply concedes a point before adding a contrast?",
+        "options": [
+          "I agree, though I still think practice matters.",
+          "No, you are completely wrong.",
+          "That's not true at all."
+        ],
+        "answer": "I agree, though I still think practice matters.",
+        "skill": "communication"
+      }
+    ]
+  }
+}

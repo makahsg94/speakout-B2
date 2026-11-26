@@ -1,0 +1,754 @@
+{
+  "generated": "2026-11-26T15:04:23.143Z",
+  "counts": {
+    "audio": 88,
+    "video": 16,
+    "pdf": 2
+  },
+  "audio": [
+    {
+      "unit": "1",
+      "lesson": "A",
+      "file": "002_SO3_B2_SB_1A_Audio_VB1_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\002_SO3_B2_SB_1A_Audio_VB1_01.mp3",
+      "mb": 1
+    },
+    {
+      "unit": "1",
+      "lesson": "A",
+      "file": "003_SO3_B2_SB_1A_Audio_1_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\003_SO3_B2_SB_1A_Audio_1_01.mp3",
+      "mb": 4.33
+    },
+    {
+      "unit": "1",
+      "lesson": "A",
+      "file": "004_SO3_B2_SB_1A_Audio_1_02.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\004_SO3_B2_SB_1A_Audio_1_02.mp3",
+      "mb": 0.3
+    },
+    {
+      "unit": "1",
+      "lesson": "B",
+      "file": "005_SO3_B2_SB_1B_Audio_1_0X.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\005_SO3_B2_SB_1B_Audio_1_0X.mp3",
+      "mb": 3.38
+    },
+    {
+      "unit": "1",
+      "lesson": "B",
+      "file": "006_SO3_B2_SB_1B_Audio_VB1_02.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\006_SO3_B2_SB_1B_Audio_VB1_02.mp3",
+      "mb": 0.71
+    },
+    {
+      "unit": "1",
+      "lesson": "B",
+      "file": "007_SO3_B2_SB_1B_Audio_1_03.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\007_SO3_B2_SB_1B_Audio_1_03.mp3",
+      "mb": 0.36
+    },
+    {
+      "unit": "1",
+      "lesson": "C",
+      "file": "008_SO3_B2_SB_1C_Audio_1_04.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\008_SO3_B2_SB_1C_Audio_1_04.mp3",
+      "mb": 0.45
+    },
+    {
+      "unit": "1",
+      "lesson": "C",
+      "file": "009_SO3_B2_SB_1C_Audio_1_05.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\009_SO3_B2_SB_1C_Audio_1_05.mp3",
+      "mb": 2.21
+    },
+    {
+      "unit": "1",
+      "lesson": "C",
+      "file": "010_SO3_B2_SB_1C_Audio_MB1_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\010_SO3_B2_SB_1C_Audio_MB1_01.mp3",
+      "mb": 0.81
+    },
+    {
+      "unit": "1",
+      "lesson": "R",
+      "file": "011_SO3_B2_SB_1R_Audio_R1_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\011_SO3_B2_SB_1R_Audio_R1_01.mp3",
+      "mb": 1.06
+    },
+    {
+      "unit": "2",
+      "lesson": "A",
+      "file": "012_SO3_B2_SB_2A_Audio_2_0X.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\012_SO3_B2_SB_2A_Audio_2_0X.mp3",
+      "mb": 2.78
+    },
+    {
+      "unit": "2",
+      "lesson": "A",
+      "file": "013_SO3_B2_SB_2A_Audio_2_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\013_SO3_B2_SB_2A_Audio_2_01.mp3",
+      "mb": 0.37
+    },
+    {
+      "unit": "2",
+      "lesson": "B",
+      "file": "014_SO3_B2_SB_2B_Audio_2_02.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\014_SO3_B2_SB_2B_Audio_2_02.mp3",
+      "mb": 3.74
+    },
+    {
+      "unit": "2",
+      "lesson": "B",
+      "file": "015_SO3_B2_SB_2B_Audio_2_03.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\015_SO3_B2_SB_2B_Audio_2_03.mp3",
+      "mb": 0.12
+    },
+    {
+      "unit": "2",
+      "lesson": "B",
+      "file": "016_SO3_B2_SB_2B_Audio_2_04.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\016_SO3_B2_SB_2B_Audio_2_04.mp3",
+      "mb": 0.43
+    },
+    {
+      "unit": "2",
+      "lesson": "C",
+      "file": "017_SO3_B2_SB_2C_Audio_2_05.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\017_SO3_B2_SB_2C_Audio_2_05.mp3",
+      "mb": 2.27
+    },
+    {
+      "unit": "2",
+      "lesson": "",
+      "file": "018_SO3_B2_SB_2_Audio_2_06.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\018_SO3_B2_SB_2_Audio_2_06.mp3",
+      "mb": 0.27
+    },
+    {
+      "unit": "2",
+      "lesson": "C",
+      "file": "019_SO3_B2_SB_2C_Audio_MB2_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\019_SO3_B2_SB_2C_Audio_MB2_01.mp3",
+      "mb": 1.25
+    },
+    {
+      "unit": "2",
+      "lesson": "C",
+      "file": "020_SO3_B2_SB_2C_Audio_MB2_02.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\020_SO3_B2_SB_2C_Audio_MB2_02.mp3",
+      "mb": 1.84
+    },
+    {
+      "unit": "2",
+      "lesson": "D",
+      "file": "021_SO3_B2_SB_2D_Audio_2_07.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\021_SO3_B2_SB_2D_Audio_2_07.mp3",
+      "mb": 1.01
+    },
+    {
+      "unit": "2",
+      "lesson": "R",
+      "file": "022_SO3_B2_SB_2R_Audio_R2_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\022_SO3_B2_SB_2R_Audio_R2_01.mp3",
+      "mb": 0.92
+    },
+    {
+      "unit": "3",
+      "lesson": "A",
+      "file": "023_SO3_B2_SB_3A_Audio_3_0XA.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\023_SO3_B2_SB_3A_Audio_3_0XA.mp3",
+      "mb": 1.5
+    },
+    {
+      "unit": "3",
+      "lesson": "A",
+      "file": "024_SO3_B2_SB_3A_Audio_3_0XB.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\024_SO3_B2_SB_3A_Audio_3_0XB.mp3",
+      "mb": 1.67
+    },
+    {
+      "unit": "3",
+      "lesson": "A",
+      "file": "025_SO3_B2_SB_3A_Audio_3_0XC.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\025_SO3_B2_SB_3A_Audio_3_0XC.mp3",
+      "mb": 1.3
+    },
+    {
+      "unit": "3",
+      "lesson": "A",
+      "file": "026_SO3_B2_SB_3A_Audio_VB3_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\026_SO3_B2_SB_3A_Audio_VB3_01.mp3",
+      "mb": 0.5
+    },
+    {
+      "unit": "3",
+      "lesson": "A",
+      "file": "027_SO3_B2_SB_3A_Audio_3_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\027_SO3_B2_SB_3A_Audio_3_01.mp3",
+      "mb": 0.26
+    },
+    {
+      "unit": "3",
+      "lesson": "A",
+      "file": "028_SO3_B2_SB_3A_Audio_3_02.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\028_SO3_B2_SB_3A_Audio_3_02.mp3",
+      "mb": 0.46
+    },
+    {
+      "unit": "3",
+      "lesson": "B",
+      "file": "029_SO3_B2_SB_3B_Audio_3_03.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\029_SO3_B2_SB_3B_Audio_3_03.mp3",
+      "mb": 4.15
+    },
+    {
+      "unit": "3",
+      "lesson": "B",
+      "file": "030_SO3_B2_SB_3B_Audio_3_04.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\030_SO3_B2_SB_3B_Audio_3_04.mp3",
+      "mb": 0.33
+    },
+    {
+      "unit": "3",
+      "lesson": "C",
+      "file": "031_SO3_B2_SB_3C_Audio_3_05.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\031_SO3_B2_SB_3C_Audio_3_05.mp3",
+      "mb": 2.26
+    },
+    {
+      "unit": "3",
+      "lesson": "C",
+      "file": "032_SO3_B2_SB_3C_Audio_3_06.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\032_SO3_B2_SB_3C_Audio_3_06.mp3",
+      "mb": 0.91
+    },
+    {
+      "unit": "3",
+      "lesson": "C",
+      "file": "033_SO3_B3_SB_3C_Audio_3_07.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\033_SO3_B3_SB_3C_Audio_3_07.mp3",
+      "mb": 0.35
+    },
+    {
+      "unit": "3",
+      "lesson": "R",
+      "file": "034_SO3_B2_SB_3R_Audio_R3_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\034_SO3_B2_SB_3R_Audio_R3_01.mp3",
+      "mb": 0.93
+    },
+    {
+      "unit": "4",
+      "lesson": "A",
+      "file": "035_SO3_B2_SB_4A_Audio_4_0X.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\035_SO3_B2_SB_4A_Audio_4_0X.mp3",
+      "mb": 3.87
+    },
+    {
+      "unit": "4",
+      "lesson": "A",
+      "file": "036_SO3_B2_SB_4A_Audio_4_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\036_SO3_B2_SB_4A_Audio_4_01.mp3",
+      "mb": 0.35
+    },
+    {
+      "unit": "4",
+      "lesson": "B",
+      "file": "037_SO3_B2_SB_4B_Audio_4_02.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\037_SO3_B2_SB_4B_Audio_4_02.mp3",
+      "mb": 2.31
+    },
+    {
+      "unit": "4",
+      "lesson": "B",
+      "file": "038_SO3_B2_SB_4B_Audio_4_03.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\038_SO3_B2_SB_4B_Audio_4_03.mp3",
+      "mb": 0.2
+    },
+    {
+      "unit": "4",
+      "lesson": "B",
+      "file": "039_SO3_B2_SB_4B_Audio_4_04.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\039_SO3_B2_SB_4B_Audio_4_04.mp3",
+      "mb": 0.12
+    },
+    {
+      "unit": "4",
+      "lesson": "B",
+      "file": "040_SO3_B2_SB_4B_Audio_4_05.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\040_SO3_B2_SB_4B_Audio_4_05.mp3",
+      "mb": 0.39
+    },
+    {
+      "unit": "4",
+      "lesson": "C",
+      "file": "041_SO3_B2_SB_4C_Audio_4_06.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\041_SO3_B2_SB_4C_Audio_4_06.mp3",
+      "mb": 1.95
+    },
+    {
+      "unit": "4",
+      "lesson": "C",
+      "file": "042_SO3_B2_SB_4C_Audio_4_07.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\042_SO3_B2_SB_4C_Audio_4_07.mp3",
+      "mb": 0.42
+    },
+    {
+      "unit": "4",
+      "lesson": "C",
+      "file": "043_SO3_B2_SB_4C_Audio_MB4_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\043_SO3_B2_SB_4C_Audio_MB4_01.mp3",
+      "mb": 1.44
+    },
+    {
+      "unit": "4",
+      "lesson": "D",
+      "file": "044_SO3_B2_SB_4D_Audio_4_08.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\044_SO3_B2_SB_4D_Audio_4_08.mp3",
+      "mb": 2.18
+    },
+    {
+      "unit": "4",
+      "lesson": "R",
+      "file": "045_SO3_B2_SB_4R_Audio_R4_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\045_SO3_B2_SB_4R_Audio_R4_01.mp3",
+      "mb": 1.21
+    },
+    {
+      "unit": "5",
+      "lesson": "A",
+      "file": "046_SO3_B2_SB_5A_Audio_5_0X.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\046_SO3_B2_SB_5A_Audio_5_0X.mp3",
+      "mb": 2.85
+    },
+    {
+      "unit": "5",
+      "lesson": "A",
+      "file": "047_SO3_B2_SB_5A_Audio_5_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\047_SO3_B2_SB_5A_Audio_5_01.mp3",
+      "mb": 0.32
+    },
+    {
+      "unit": "5",
+      "lesson": "B",
+      "file": "048_SO3_B2_SB_5B_Audio_5_02.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\048_SO3_B2_SB_5B_Audio_5_02.mp3",
+      "mb": 1.99
+    },
+    {
+      "unit": "5",
+      "lesson": "B",
+      "file": "049_SO3_B2_SB_5B_Audio_5_03.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\049_SO3_B2_SB_5B_Audio_5_03.mp3",
+      "mb": 0.84
+    },
+    {
+      "unit": "5",
+      "lesson": "B",
+      "file": "050_SO3_B2_SB_5B_Audio_VB5_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\050_SO3_B2_SB_5B_Audio_VB5_01.mp3",
+      "mb": 1.23
+    },
+    {
+      "unit": "5",
+      "lesson": "B",
+      "file": "051_SO3_B2_SB_5B_Audio_5_04.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\051_SO3_B2_SB_5B_Audio_5_04.mp3",
+      "mb": 0.25
+    },
+    {
+      "unit": "5",
+      "lesson": "C",
+      "file": "052_SO3_B2_SB_5C_Audio_5_05.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\052_SO3_B2_SB_5C_Audio_5_05.mp3",
+      "mb": 2.19
+    },
+    {
+      "unit": "5",
+      "lesson": "C",
+      "file": "053_SO3_B3_SB_5C_Audio_5_06.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\053_SO3_B3_SB_5C_Audio_5_06.mp3",
+      "mb": 0.9
+    },
+    {
+      "unit": "5",
+      "lesson": "C",
+      "file": "054_SO3_B2_SB_5C_Audio_5_07.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\054_SO3_B2_SB_5C_Audio_5_07.mp3",
+      "mb": 0.19
+    },
+    {
+      "unit": "5",
+      "lesson": "C",
+      "file": "055_SO3_B2_SB_5C_Audio_5_08.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\055_SO3_B2_SB_5C_Audio_5_08.mp3",
+      "mb": 0.67
+    },
+    {
+      "unit": "5",
+      "lesson": "C",
+      "file": "056_SO3_B2_SB_5C_Audio_MB5_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\056_SO3_B2_SB_5C_Audio_MB5_01.mp3",
+      "mb": 1.18
+    },
+    {
+      "unit": "5",
+      "lesson": "R",
+      "file": "057_SO3_B2_SB_5R_Audio_R5_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\057_SO3_B2_SB_5R_Audio_R5_01.mp3",
+      "mb": 1.2
+    },
+    {
+      "unit": "6",
+      "lesson": "A",
+      "file": "058_SO3_B2_SB_6A_Audio_6_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\058_SO3_B2_SB_6A_Audio_6_01.mp3",
+      "mb": 0.52
+    },
+    {
+      "unit": "6",
+      "lesson": "A",
+      "file": "059_SO3_B2_SB_6A_Audio_6_0X.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\059_SO3_B2_SB_6A_Audio_6_0X.mp3",
+      "mb": 3.33
+    },
+    {
+      "unit": "6",
+      "lesson": "B",
+      "file": "060_SO3_B2_SB_6B_Audio_6_02.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\060_SO3_B2_SB_6B_Audio_6_02.mp3",
+      "mb": 4.16
+    },
+    {
+      "unit": "6",
+      "lesson": "B",
+      "file": "061_SO3_B2_SB_6B_Audio_VB6_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\061_SO3_B2_SB_6B_Audio_VB6_01.mp3",
+      "mb": 0.71
+    },
+    {
+      "unit": "6",
+      "lesson": "B",
+      "file": "062_SO3_B2_SB_6B_Audio_6_03.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\062_SO3_B2_SB_6B_Audio_6_03.mp3",
+      "mb": 0.49
+    },
+    {
+      "unit": "6",
+      "lesson": "C",
+      "file": "063_SO3_B2_SB_6C_Audio_6_04.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\063_SO3_B2_SB_6C_Audio_6_04.mp3",
+      "mb": 3.15
+    },
+    {
+      "unit": "6",
+      "lesson": "C",
+      "file": "064_SO3_B2_SB_6C_Audio_6_05.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\064_SO3_B2_SB_6C_Audio_6_05.mp3",
+      "mb": 0.42
+    },
+    {
+      "unit": "6",
+      "lesson": "D",
+      "file": "065_SO3_B2_SB_6D_Audio_6_06.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\065_SO3_B2_SB_6D_Audio_6_06.mp3",
+      "mb": 1.96
+    },
+    {
+      "unit": "6",
+      "lesson": "D",
+      "file": "066_SO3_B2_SB_6D_Audio_6_07.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\066_SO3_B2_SB_6D_Audio_6_07.mp3",
+      "mb": 0.39
+    },
+    {
+      "unit": "6",
+      "lesson": "R",
+      "file": "067_SO3_B2_SB_6R_Audio_R6_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\067_SO3_B2_SB_6R_Audio_R6_01.mp3",
+      "mb": 1.05
+    },
+    {
+      "unit": "7",
+      "lesson": "A",
+      "file": "068_SO3_B2_SB_7A_Audio_7_0XA.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\068_SO3_B2_SB_7A_Audio_7_0XA.mp3",
+      "mb": 3.67
+    },
+    {
+      "unit": "7",
+      "lesson": "A",
+      "file": "069_SO3_B2_SB_7A_Audio_7_0XB.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\069_SO3_B2_SB_7A_Audio_7_0XB.mp3",
+      "mb": 3.19
+    },
+    {
+      "unit": "7",
+      "lesson": "A",
+      "file": "071_SO3_B2_SB_7A_Audio_7_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\071_SO3_B2_SB_7A_Audio_7_01.mp3",
+      "mb": 0.39
+    },
+    {
+      "unit": "7",
+      "lesson": "B",
+      "file": "072_SO3_B2_SB_7B_Audio_7_02.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\072_SO3_B2_SB_7B_Audio_7_02.mp3",
+      "mb": 2.35
+    },
+    {
+      "unit": "7",
+      "lesson": "B",
+      "file": "073_SO3_B2_SB_7B_Audio_7_03.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\073_SO3_B2_SB_7B_Audio_7_03.mp3",
+      "mb": 0.53
+    },
+    {
+      "unit": "7",
+      "lesson": "B",
+      "file": "074_SO3_B2_SB_7B_Audio_7_04.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\074_SO3_B2_SB_7B_Audio_7_04.mp3",
+      "mb": 0.58
+    },
+    {
+      "unit": "7",
+      "lesson": "C",
+      "file": "075_SO3_B2_SB_7C_Audio_7_05.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\075_SO3_B2_SB_7C_Audio_7_05.mp3",
+      "mb": 0.63
+    },
+    {
+      "unit": "7",
+      "lesson": "C",
+      "file": "076_SO3_B2_SB_7C_Audio_7_06.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\076_SO3_B2_SB_7C_Audio_7_06.mp3",
+      "mb": 3.12
+    },
+    {
+      "unit": "7",
+      "lesson": "C",
+      "file": "077_SO3_B2_SB_7C_Audio_7_07.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\077_SO3_B2_SB_7C_Audio_7_07.mp3",
+      "mb": 0.89
+    },
+    {
+      "unit": "7",
+      "lesson": "C",
+      "file": "078_SO3_B2_SB_7C_Audio_MB7_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\078_SO3_B2_SB_7C_Audio_MB7_01.mp3",
+      "mb": 1.47
+    },
+    {
+      "unit": "7",
+      "lesson": "R",
+      "file": "079_SO3_B2_SB_7R_Audio_R7_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\079_SO3_B2_SB_7R_Audio_R7_01.mp3",
+      "mb": 0.94
+    },
+    {
+      "unit": "8",
+      "lesson": "A",
+      "file": "080_SO3_B2_SB_8A_Audio_8_0X.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\080_SO3_B2_SB_8A_Audio_8_0X.mp3",
+      "mb": 3.39
+    },
+    {
+      "unit": "8",
+      "lesson": "A",
+      "file": "081_SO3_B2_SB_8A_Audio_8_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\081_SO3_B2_SB_8A_Audio_8_01.mp3",
+      "mb": 0.42
+    },
+    {
+      "unit": "8",
+      "lesson": "A",
+      "file": "082_SO3_B2_SB_8A_Audio_VB8_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\082_SO3_B2_SB_8A_Audio_VB8_01.mp3",
+      "mb": 0.84
+    },
+    {
+      "unit": "8",
+      "lesson": "B",
+      "file": "083_SO3_B2_SB_8B_Audio_8_02.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\083_SO3_B2_SB_8B_Audio_8_02.mp3",
+      "mb": 1.81
+    },
+    {
+      "unit": "8",
+      "lesson": "B",
+      "file": "084_SO3_B2_SB_8B_Audio_8_03.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\084_SO3_B2_SB_8B_Audio_8_03.mp3",
+      "mb": 3.42
+    },
+    {
+      "unit": "8",
+      "lesson": "B",
+      "file": "085_SO3_B2_SB_8B_Audio_8_04.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\085_SO3_B2_SB_8B_Audio_8_04.mp3",
+      "mb": 0.28
+    },
+    {
+      "unit": "8",
+      "lesson": "C",
+      "file": "086_SO3_B2_SB_8C_Audio_8_05.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\086_SO3_B2_SB_8C_Audio_8_05.mp3",
+      "mb": 2.04
+    },
+    {
+      "unit": "8",
+      "lesson": "C",
+      "file": "087_SO3_B2_SB_8C_Audio_GB8_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\087_SO3_B2_SB_8C_Audio_GB8_01.mp3",
+      "mb": 1
+    },
+    {
+      "unit": "8",
+      "lesson": "C",
+      "file": "088_SO3_B2_SB_8C_Audio_8_06.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\088_SO3_B2_SB_8C_Audio_8_06.mp3",
+      "mb": 0.62
+    },
+    {
+      "unit": "8",
+      "lesson": "D",
+      "file": "089_SO3_B2_SB_8D_Audio_8_07.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\089_SO3_B2_SB_8D_Audio_8_07.mp3",
+      "mb": 1.16
+    },
+    {
+      "unit": "8",
+      "lesson": "R",
+      "file": "090_SO3_B2_SB_8R_Audio_R8_01.mp3",
+      "src": "689_3- Speakout 3rd B2 Class Audio\\689_3- Speakout 3rd B2 Class Audio\\090_SO3_B2_SB_8R_Audio_R8_01.mp3",
+      "mb": 0.94
+    }
+  ],
+  "video": [
+    {
+      "unit": "1",
+      "type": "street",
+      "file": "SO3 B2 U1 BBC StreetInt.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U1 BBC StreetInt.mp4",
+      "mb": 16.6
+    },
+    {
+      "unit": "1",
+      "type": "vlogs",
+      "file": "SO3 B2 U1 BBC Vlogs.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U1 BBC Vlogs.mp4",
+      "mb": 9.18
+    },
+    {
+      "unit": "2",
+      "type": "programme",
+      "file": "SO3 B2 U2 BBC Programmes.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U2 BBC Programmes.mp4",
+      "mb": 33.94
+    },
+    {
+      "unit": "2",
+      "type": "vlogs",
+      "file": "SO3 B2 U2 BBC Vlogs.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U2 BBC Vlogs.mp4",
+      "mb": 10.46
+    },
+    {
+      "unit": "3",
+      "type": "street",
+      "file": "SO3 B2 U3 BBC StreetInt.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U3 BBC StreetInt.mp4",
+      "mb": 17.34
+    },
+    {
+      "unit": "3",
+      "type": "vlogs",
+      "file": "SO3 B2 U3 BBC Vlogs.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U3 BBC Vlogs.mp4",
+      "mb": 10.35
+    },
+    {
+      "unit": "4",
+      "type": "programme",
+      "file": "SO3 B2 U4 BBC Programmes.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U4 BBC Programmes.mp4",
+      "mb": 29.6
+    },
+    {
+      "unit": "4",
+      "type": "vlogs",
+      "file": "SO3 B2 U4 BBC Vlogs.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U4 BBC Vlogs.mp4",
+      "mb": 10.08
+    },
+    {
+      "unit": "5",
+      "type": "street",
+      "file": "SO3 B2 U5 BBC StreetInt.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U5 BBC StreetInt.mp4",
+      "mb": 17.84
+    },
+    {
+      "unit": "5",
+      "type": "vlogs",
+      "file": "SO3 B2 U5 BBC Vlogs.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U5 BBC Vlogs.mp4",
+      "mb": 10.49
+    },
+    {
+      "unit": "6",
+      "type": "programme",
+      "file": "SO3 B2 U6 BBC Programmes.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U6 BBC Programmes.mp4",
+      "mb": 20.5
+    },
+    {
+      "unit": "6",
+      "type": "vlogs",
+      "file": "SO3 B2 U6 BBC Vlogs.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U6 BBC Vlogs.mp4",
+      "mb": 10.11
+    },
+    {
+      "unit": "7",
+      "type": "street",
+      "file": "SO3 B2 U7 BBC StreetInt.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U7 BBC StreetInt.mp4",
+      "mb": 17.47
+    },
+    {
+      "unit": "7",
+      "type": "vlogs",
+      "file": "SO3 B2 U7 BBC Vlogs.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U7 BBC Vlogs.mp4",
+      "mb": 10.42
+    },
+    {
+      "unit": "8",
+      "type": "programme",
+      "file": "SO3 B2 U8 BBC Programmes.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U8 BBC Programmes.mp4",
+      "mb": 14.76
+    },
+    {
+      "unit": "8",
+      "type": "vlogs",
+      "file": "SO3 B2 U8 BBC Vlogs.mp4",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3 B2 U8 BBC Vlogs.mp4",
+      "mb": 10.29
+    }
+  ],
+  "pdfs": [
+    {
+      "file": "689_1- Speakout 3rd B2 Student's Book_2022.pdf",
+      "src": "689_1- Speakout 3rd B2 Student's Book_2022.pdf",
+      "mb": 28.68,
+      "siteFile": "Speakout-B2-Students-Book.pdf"
+    },
+    {
+      "file": "SO3_B2_SB_Videoscripts.pdf",
+      "src": "689_4- Speakout 3rd B2 Videos\\689_4- Speakout 3rd B2 Videos\\SO3_B2_SB_Videoscripts.pdf",
+      "mb": 0.96,
+      "siteFile": "Videoscripts.pdf"
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "unit": 2,
+  "title": "different worlds",
+  "titleAr": "عوالم مختلفة",
+  "aim": "Explore future technology, nature, unusual lifestyles and time travel through accurate speculation.",
+  "pages": "20–30",
+  "objectives": [
+    "Discuss future uses of technology with accurate probability language",
+    "Use quantifiers to talk about nature and city life",
+    "Speculate about unusual lives and degrees of certainty",
+    "Write a for-and-against essay and a competition entry"
+  ],
+  "lessons": [
+    {
+      "id": "2a",
+      "code": "2A",
+      "title": "Real or virtual?",
+      "pages": "20–22",
+      "goals": [
+        "Read two opposing views about the future of virtual reality",
+        "Use a range of structures for future probability",
+        "Make accurate predictions about life in 2040"
+      ],
+      "grammar": {
+        "title": "Future probability",
+        "shortAr": "will وgoing to وlikely / unlikely / certain / due to للتكهن، وmight / could للاحتمال.",
+        "points": [
+          "Use will / won't + infinitive without to for predictions based on opinion.",
+          "Use be going to when present evidence supports a prediction; use be certain to and be likely / unlikely to for degrees of probability.",
+          "Use might, may and could + infinitive without to for possible but uncertain future events.",
+          "Use be due to when something is scheduled to happen."
+        ],
+        "table": [
+          [
+            "Opinion prediction",
+            "VR won't replace real holidays anytime soon."
+          ],
+          [
+            "Present evidence",
+            "It's going to rain; look at those clouds."
+          ],
+          [
+            "High probability",
+            "VR is certain to become more common. / It is likely to be used in travel."
+          ],
+          [
+            "Possible event",
+            "VR might replace some kinds of tourism."
+          ],
+          [
+            "Scheduled event",
+            "The new headsets are due to go on sale next week."
+          ]
+        ],
+        "exceptions": [
+          "Use probably won't, not won't probably: We probably won't come.",
+          "For negative future possibilities use might not or may not, not could not."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "researcher",
+          "ar": "باحث",
+          "example": "A researcher finds out information by reading and talking to people."
+        },
+        {
+          "word": "virtual reality",
+          "ar": "الواقع الافتراضي",
+          "example": "Virtual reality can feel almost like real life."
+        },
+        {
+          "word": "smart",
+          "ar": "ذكي",
+          "example": "Smart technology is controlled by computers."
+        },
+        {
+          "word": "findings",
+          "ar": "نتائج البحث",
+          "example": "The researchers published their findings after the study."
+        },
+        {
+          "word": "industry",
+          "ar": "قطاع / صناعة",
+          "example": "The tech industry is spending a lot on VR."
+        },
+        {
+          "word": "remotely",
+          "ar": "عن بُعد",
+          "example": "Many people can now work remotely from anywhere."
+        },
+        {
+          "word": "analyse",
+          "ar": "يحلّل",
+          "example": "We need to analyse the information before we predict results."
+        },
+        {
+          "word": "predict",
+          "ar": "يتنبّأ",
+          "example": "It is difficult to predict the future of technology."
+        }
+      ],
+      "reading": {
+        "summary": "The article presents two views of VR: supporters see value in education, training, health and low-impact travel, while critics question the cost, evidence and ability to replace real experience."
+      },
+      "listening": [
+        {
+          "track": "2.0X",
+          "audioFile": "012_SO3_B2_SB_2A_Audio_2_0X.mp3",
+          "summary": "Vocabulary bank: word families for science and technology."
+        },
+        {
+          "track": "2.01",
+          "audioFile": "013_SO3_B2_SB_2A_Audio_2_01.mp3",
+          "summary": "Pronunciation: connected speech in phrases about future probability."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U2 BBC Vlogs.mp4",
+        "summary": "Speakers describe the impact of social media on their daily lives."
+      },
+      "speaking": [
+        "Decide whether predictions about offices, universities, concerts and medicine will happen, might happen or definitely won't happen.",
+        "Discuss how accurate your predictions are and what other uses VR might have by 2040."
+      ],
+      "writing": [
+        "Write a short prediction paragraph about VR in 2040 using at least four different future probability structures."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "The critic in the article says VR ___ replace real-life training.",
+          "options": [
+            "will never",
+            "is certain to",
+            "is due to"
+          ],
+          "answer": "will never",
+          "why": "The writer argues that virtual practice cannot replace real practice."
+        },
+        {
+          "type": "choice",
+          "q": "Look at those black clouds! It ___ rain.",
+          "options": [
+            "is going to",
+            "is due to",
+            "is unlikely to"
+          ],
+          "answer": "is going to",
+          "why": "be going to is used when there is clear present evidence."
+        },
+        {
+          "type": "choice",
+          "q": "The training session ___ start at 9 a.m.",
+          "options": [
+            "is due to",
+            "is likely to",
+            "might to"
+          ],
+          "answer": "is due to",
+          "why": "be due to describes something scheduled to happen."
+        },
+        {
+          "type": "choice",
+          "q": "After arranging scientific tests, researchers publish their ___.",
+          "options": [
+            "findings",
+            "industry",
+            "devices"
+          ],
+          "answer": "findings",
+          "why": "Findings are the results of research."
+        }
+      ]
+    },
+    {
+      "id": "2b",
+      "code": "2B",
+      "title": "Closer to nature",
+      "pages": "23–25",
+      "goals": [
+        "Understand a radio programme about the benefits of nature",
+        "Use quantifiers with singular, plural and uncountable nouns",
+        "Write a balanced for-and-against essay"
+      ],
+      "grammar": {
+        "title": "Quantifiers",
+        "shortAr": "تُستخدم الكمّيات حسب نوع الاسم: جمع، لا معدود، أو مفرد؛ a few / a little كمية صغيرة، few /little أقل من المطلوب.",
+        "points": [
+          "Use several, few, a few and a handful of with plural countable nouns.",
+          "Use the majority of, a lack of and no with plural or uncountable nouns; use each and every with singular nouns.",
+          "Use very little, a little and a good deal of with uncountable nouns."
+        ],
+        "table": [
+          [
+            "Plural countable",
+            "Several of us try to find time outdoors."
+          ],
+          [
+            "Large amount",
+            "I spend a good deal of time commuting."
+          ],
+          [
+            "Not enough / none",
+            "There is a lack of green public spaces. / We have no time to spare."
+          ],
+          [
+            "Singular",
+            "Each time you do this, you'll feel more relaxed."
+          ],
+          [
+            "Small amount",
+            "Take a few moments or a handful of plants."
+          ]
+        ],
+        "exceptions": [
+          "a few and a little suggest a small positive amount; few and little suggest less than we want.",
+          "In a majority and in a minority describe people or things rather than a noun after the phrase."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "coastline",
+          "ar": "الساحل / خط الساحل",
+          "example": "The wild coastline has long beaches and cliffs."
+        },
+        {
+          "word": "deserted",
+          "ar": "خالٍ من الناس",
+          "example": "We walked on a deserted beach after midnight."
+        },
+        {
+          "word": "open space",
+          "ar": "مساحة مفتوحة",
+          "example": "The city needs more open space for families."
+        },
+        {
+          "word": "river bank",
+          "ar": "ضفة النهر",
+          "example": "They sat on the river bank and watched the water."
+        },
+        {
+          "word": "scenery",
+          "ar": "منظر طبيعي",
+          "example": "The mountain scenery is spectacular."
+        },
+        {
+          "word": "sunlight",
+          "ar": "ضوء الشمس",
+          "example": "Morning sunlight came through the trees."
+        },
+        {
+          "word": "track",
+          "ar": "ممر / طريق ضيق",
+          "example": "A narrow track led down to the river."
+        },
+        {
+          "word": "woodland",
+          "ar": "أرض مكسوة بالأشجار",
+          "example": "The woodland is quiet early in the morning."
+        }
+      ],
+      "reading": {
+        "summary": "A short text explains that about two hours a week in nature can improve well-being, whether on a wild coastline, in woodland or beside a river."
+      },
+      "listening": [
+        {
+          "track": "2.02",
+          "audioFile": "014_SO3_B2_SB_2B_Audio_2_02.mp3",
+          "summary": "Radio programme: why time in nature can restore balance and improve well-being."
+        },
+        {
+          "track": "2.03",
+          "audioFile": "015_SO3_B2_SB_2B_Audio_2_03.mp3",
+          "summary": "Pronunciation: linking inside quantifiers such as the majority of."
+        },
+        {
+          "track": "2.04",
+          "audioFile": "016_SO3_B2_SB_2B_Audio_2_04.mp3",
+          "summary": "Pronunciation practice: connected speech in a good deal of, a lack of and in a minority."
+        }
+      ],
+      "video": {
+        "file": "",
+        "summary": ""
+      },
+      "speaking": [
+        "Suggest ways for your school or college to encourage time in nature, including green spaces, events and schedules.",
+        "Refocus the group when discussion gets stuck and agree on five practical suggestions."
+      ],
+      "writing": [
+        "Write a 180–200 word for-and-against essay about living in the countryside, using contrast linkers and a clear conclusion."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "There is ___ green public space in many big cities.",
+          "options": [
+            "a lack of",
+            "a handful of",
+            "a few"
+          ],
+          "answer": "a lack of",
+          "why": "a lack of means there is not enough of something."
+        },
+        {
+          "type": "choice",
+          "q": "___ students in our class go outside at lunchtime; only four of us do.",
+          "options": [
+            "A handful of",
+            "The majority of",
+            "A good deal of"
+          ],
+          "answer": "A handful of",
+          "why": "a handful of means a small number."
+        },
+        {
+          "type": "choice",
+          "q": "I spend ___ time commuting every day.",
+          "options": [
+            "a good deal of",
+            "several",
+            "each"
+          ],
+          "answer": "a good deal of",
+          "why": "time is uncountable, so a good deal of is appropriate."
+        },
+        {
+          "type": "choice",
+          "q": "The land beside a river is called the ___.",
+          "options": [
+            "river bank",
+            "coastline",
+            "woodland"
+          ],
+          "answer": "river bank",
+          "why": "A river bank is the land along the side of a river."
+        }
+      ]
+    },
+    {
+      "id": "2c",
+      "code": "2C",
+      "title": "Amazing lives",
+      "pages": "26–27",
+      "goals": [
+        "Read about three women with extreme lifestyles",
+        "Speculate using phrases that show how certain you are",
+        "Stress the words that signal certainty in speech"
+      ],
+      "grammar": {
+        "title": "How to speculate",
+        "shortAr": "للتكهن نستخدم I reckon / I suppose / I'd guess، ولليقين I know for a fact أو bound to.",
+        "points": [
+          "Use I'd guess, I'd have thought, I'd imagine, I suppose and I reckon to give an opinion.",
+          "Use I get the impression that, clearly, obviously and bound to when evidence supports your guess.",
+          "Use There's no way for ideas you think are impossible and I know for a fact for total certainty."
+        ],
+        "table": [
+          [
+            "General guess",
+            "I'd guess it must be inspiring to see the world like that."
+          ],
+          [
+            "Opinion",
+            "I reckon life on the Space Station must be a bit boring."
+          ],
+          [
+            "Based on evidence",
+            "I get the impression that she enjoys being alone."
+          ],
+          [
+            "Strong prediction",
+            "She's bound to feel scared sometimes."
+          ],
+          [
+            "Impossible",
+            "There's no way I would ever consider doing that."
+          ],
+          [
+            "Certain fact",
+            "I know for a fact that being at sea alone is not easy."
+          ]
+        ],
+        "exceptions": [
+          "I know for a fact signals 100 percent certainty; There's no way signals impossibility.",
+          "Stress the words that carry the speaker's level of certainty."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "unique",
+          "ar": "فريد",
+          "example": "Her lifestyle is unique; nobody else lives like her."
+        },
+        {
+          "word": "modest",
+          "ar": "بسيط / متواضع",
+          "example": "She lives a modest life on a small boat."
+        },
+        {
+          "word": "ordinary",
+          "ar": "عادي",
+          "example": "Life in space can make ordinary tasks difficult."
+        },
+        {
+          "word": "fulfilling",
+          "ar": "مُشبع ومُرضٍ",
+          "example": "He had a fulfilling career as an astronaut."
+        },
+        {
+          "word": "tedious",
+          "ar": "ممل",
+          "example": "Life on the station can be tedious at times."
+        },
+        {
+          "word": "exhausting",
+          "ar": "مرهق",
+          "example": "Running around the world can be exhausting."
+        },
+        {
+          "word": "rewarding",
+          "ar": "مُكافئ ومُرضٍ",
+          "example": "The long journey was difficult but rewarding."
+        },
+        {
+          "word": "harsh",
+          "ar": "قاسٍ",
+          "example": "She faced harsh winters and loneliness."
+        }
+      ],
+      "reading": {
+        "summary": "The article profiles a marine nomad, an astronaut and a solo runner, showing how unusual lives can be both rewarding and difficult."
+      },
+      "listening": [
+        {
+          "track": "2.05",
+          "audioFile": "017_SO3_B2_SB_2C_Audio_2_05.mp3",
+          "summary": "Conversation about a TV series, speculating about Karen Nyberg and Rosie Swale-Pope."
+        },
+        {
+          "track": "MB2",
+          "audioFile": "019_SO3_B2_SB_2C_Audio_MB2_01.mp3",
+          "summary": "Mediation bank model: note taking and summarising an informal interview."
+        },
+        {
+          "track": "MB2",
+          "audioFile": "020_SO3_B2_SB_2C_Audio_MB2_02.mp3",
+          "summary": "Mediation bank practice: summarising key points from an informal interview."
+        }
+      ],
+      "video": {
+        "file": "",
+        "summary": ""
+      },
+      "speaking": [
+        "Choose four famous people and discuss what they enjoy about life and how they feel about fame.",
+        "Speculate about why they might sometimes be unhappy and decide whose life sounds best."
+      ],
+      "writing": [
+        "Write six sentences about an unusual lifestyle using at least four different speculation phrases."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "Which phrase shows the strongest certainty?",
+          "options": [
+            "I know for a fact that …",
+            "I suppose …",
+            "I reckon …",
+            "I doubt …"
+          ],
+          "answer": "I know for a fact that …",
+          "why": "This phrase says the speaker is completely sure."
+        },
+        {
+          "type": "choice",
+          "q": "Which phrase says something is impossible?",
+          "options": [
+            "There's no way I'd ever do that.",
+            "I'd imagine that …",
+            "I'm fairly sure that …",
+            "I bet …"
+          ],
+          "answer": "There's no way I'd ever do that.",
+          "why": "There's no way expresses impossibility."
+        },
+        {
+          "type": "choice",
+          "q": "Life on the road can be ___ but also incredibly rewarding.",
+          "options": [
+            "exhausting",
+            "tedious",
+            "modest"
+          ],
+          "answer": "exhausting",
+          "why": "The article describes the physical challenge of the journey as exhausting."
+        },
+        {
+          "type": "choice",
+          "q": "A lifestyle that is completely different from most people's is ___.",
+          "options": [
+            "unique",
+            "ordinary",
+            "fulfilling"
+          ],
+          "answer": "unique",
+          "why": "Unique means unlike anyone or anything else."
+        }
+      ]
+    },
+    {
+      "id": "2d",
+      "code": "2D",
+      "title": "The time traveller",
+      "pages": "28–29",
+      "goals": [
+        "Understand a Doctor Who episode about Vincent van Gogh",
+        "Recognise extreme adjectives and signpost a sequence of ideas",
+        "Plan an imaginary trip back in time and write a competition entry"
+      ],
+      "grammar": {
+        "title": "Signposting an imaginary trip",
+        "shortAr": "نظّم الرحلة بعبارات مثل To start with وAnother possibility would be وAnd last but not least.",
+        "points": [
+          "Use To start with and With that in mind to organise the opening of a plan.",
+          "Use What else? and Another possibility would be to introduce a new idea.",
+          "Use And last but not least for the final point."
+        ],
+        "table": [
+          [
+            "Start the plan",
+            "To start with, I'd go to the nineteenth century."
+          ],
+          [
+            "Refer back",
+            "With that in mind, I'd visit a café in Paris."
+          ],
+          [
+            "Add an idea",
+            "What else? Another possibility would be to meet the artist."
+          ],
+          [
+            "Finish the sequence",
+            "And last but not least, I'd bring back a painting."
+          ],
+          [
+            "Extreme adjective",
+            "The final months were an astonishing artistic outpouring."
+          ]
+        ],
+        "exceptions": [
+          "Extreme adjectives such as astonishing and magnificent already mean very; use very fine, not very magnificent.",
+          "With that in mind refers to something that has just been said."
+        ]
+      },
+      "vocab": [
+        {
+          "word": "astonishing",
+          "ar": "مذهل",
+          "example": "The number of paintings was astonishing."
+        },
+        {
+          "word": "incredible",
+          "ar": "لا يُصدّق / ممتاز جداً",
+          "example": "The colours in the painting are incredible."
+        },
+        {
+          "word": "precious",
+          "ar": "ثمين",
+          "example": "These paintings are precious and must be protected."
+        },
+        {
+          "word": "mighty",
+          "ar": "ضخم / جبار",
+          "example": "The museum is a mighty building in Paris."
+        },
+        {
+          "word": "finest",
+          "ar": "الأفضل",
+          "example": "Van Gogh is often called the finest painter of them all."
+        },
+        {
+          "word": "magnificent",
+          "ar": "رائع جداً / فخم",
+          "example": "His command of colour was magnificent."
+        },
+        {
+          "word": "greatest",
+          "ar": "الأعظم",
+          "example": "The museum holds many of the greatest paintings in history."
+        }
+      ],
+      "reading": {
+        "summary": "The programme notes introduce Doctor Who and Vincent van Gogh, an artist whose work became famous only after his difficult and largely unrecognised life."
+      },
+      "listening": [
+        {
+          "track": "2.06",
+          "audioFile": "018_SO3_B2_SB_2_Audio_2_06.mp3",
+          "summary": "Pronunciation practice: stressing the words that show how certain a speaker is."
+        },
+        {
+          "track": "2.07",
+          "audioFile": "021_SO3_B2_SB_2D_Audio_2_07.mp3",
+          "summary": "A speaker explains an imaginary trip back in time and organises it with key phrases."
+        },
+        {
+          "track": "R2",
+          "audioFile": "022_SO3_B2_SB_2R_Audio_R2_01.mp3",
+          "summary": "Review listening: solitude, quantifiers and future probability in context."
+        }
+      ],
+      "video": {
+        "file": "SO3 B2 U2 BBC Programmes.mp4",
+        "summary": "In this Doctor Who episode, the Doctor and Amy travel back to meet van Gogh and learn how his work will later be valued."
+      },
+      "speaking": [
+        "Plan where and when you would travel, who you would meet and what you would do.",
+        "Present your trip back in time using clear signposting phrases and explain why it would be exciting."
+      ],
+      "writing": [
+        "Write a competition entry about an imaginary journey through time, using extreme adjectives and clear sequencing."
+      ],
+      "practice": [
+        {
+          "type": "choice",
+          "q": "The extreme adjective meaning very surprising or amazing is ___.",
+          "options": [
+            "astonishing",
+            "ordinary",
+            "modest"
+          ],
+          "answer": "astonishing",
+          "why": "Astonishing already means extremely surprising."
+        },
+        {
+          "type": "choice",
+          "q": "Which phrase introduces the final item in a sequence?",
+          "options": [
+            "And last but not least, I'd …",
+            "To start with, …",
+            "What else?"
+          ],
+          "answer": "And last but not least, I'd …",
+          "why": "This phrase signals the last point in a plan."
+        },
+        {
+          "type": "choice",
+          "q": "The museum is home to many of the ___ paintings in history.",
+          "options": [
+            "greatest",
+            "tedious",
+            "deserted"
+          ],
+          "answer": "greatest",
+          "why": "Greatest means best or most important."
+        },
+        {
+          "type": "choice",
+          "q": "Which adjective means best in the phrase the ___ painter of them all?",
+          "options": [
+            "finest",
+            "mighty",
+            "incredible"
+          ],
+          "answer": "finest",
+          "why": "Finest means of the highest quality."
+        }
+      ]
+    }
+  ],
+  "review": {
+    "summary": "Recycle future probability, quantifiers, speculation, nature and lifestyle vocabulary, plus language for time travel.",
+    "tasks": [
+      "Complete the solitude text with quantifiers and probability forms, then check your answers with R2.",
+      "Write five accurate predictions about future holidays or technology using at least three different structures.",
+      "Speculate about an unusual life using three different levels of certainty."
+    ],
+    "quiz": [
+      {
+        "q": "VR is ___ to become more common because it can save lives.",
+        "options": [
+          "certain",
+          "due",
+          "unlikely",
+          "might"
+        ],
+        "answer": "certain",
+        "skill": "grammar"
+      },
+      {
+        "q": "The train is ___ depart at 6 p.m.",
+        "options": [
+          "due to",
+          "likely to",
+          "going to",
+          "might to"
+        ],
+        "answer": "due to",
+        "skill": "grammar"
+      },
+      {
+        "q": "We ___ probably visit the virtual exhibition tomorrow.",
+        "options": [
+          "will",
+          "are",
+          "might",
+          "due to"
+        ],
+        "answer": "will",
+        "skill": "grammar"
+      },
+      {
+        "q": "There ___ green public spaces in many city centres.",
+        "options": [
+          "is a lack of",
+          "are a handful of",
+          "is each",
+          "is very little"
+        ],
+        "answer": "is a lack of",
+        "skill": "grammar"
+      },
+      {
+        "q": "___ people in major cities use public transport.",
+        "options": [
+          "The majority of",
+          "A good deal of",
+          "Very little",
+          "Each"
+        ],
+        "answer": "The majority of",
+        "skill": "grammar"
+      },
+      {
+        "q": "I spend ___ time outdoors than I used to.",
+        "options": [
+          "very little",
+          "few",
+          "several",
+          "a handful of"
+        ],
+        "answer": "very little",
+        "skill": "grammar"
+      },
+      {
+        "q": "Which phrase shows complete certainty?",
+        "options": [
+          "I know for a fact that …",
+          "I doubt …",
+          "I suppose …",
+          "I'd guess …"
+        ],
+        "answer": "I know for a fact that …",
+        "skill": "communication"
+      },
+      {
+        "q": "Which phrase means something is impossible?",
+        "options": [
+          "There's no way that …",
+          "I'm fairly sure that …",
+          "I bet …",
+          "I get the impression that …"
+        ],
+        "answer": "There's no way that …",
+        "skill": "communication"
+      },
+      {
+        "q": "A person who finds out information by reading and speaking to people is a ___.",
+        "options": [
+          "researcher",
+          "findings",
+          "industry",
+          "device"
+        ],
+        "answer": "researcher",
+        "skill": "vocab"
+      },
+      {
+        "q": "An area of land with a lot of trees is ___.",
+        "options": [
+          "woodland",
+          "coastline",
+          "river bank",
+          "open space"
+        ],
+        "answer": "woodland",
+        "skill": "vocab"
+      },
+      {
+        "q": "A simple lifestyle that does not cost much is ___.",
+        "options": [
+          "modest",
+          "exhausting",
+          "unique",
+          "rewarding"
+        ],
+        "answer": "modest",
+        "skill": "vocab"
+      },
+      {
+        "q": "The extreme adjective for very large and important is ___.",
+        "options": [
+          "mighty",
+          "ordinary",
+          "modest",
+          "tedious"
+        ],
+        "answer": "mighty",
+        "skill": "vocab"
+      },
+      {
+        "q": "What does the VR article say about virtual forests?",
+        "options": [
+          "They may reduce stress as much as real forests.",
+          "They are more expensive than real forests.",
+          "They replace all medical treatment.",
+          "There is no evidence about them."
+        ],
+        "answer": "They may reduce stress as much as real forests.",
+        "skill": "reading"
+      },
+      {
+        "q": "What happened to van Gogh's reputation after he died?",
+        "options": [
+          "His work became popular and he is now famous.",
+          "He became unsuccessful.",
+          "He stopped painting.",
+          "Nobody ever heard of him."
+        ],
+        "answer": "His work became popular and he is now famous.",
+        "skill": "reading"
+      }
+    ]
+  }
+}
